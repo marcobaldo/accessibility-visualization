@@ -1,0 +1,7522 @@
+[
+  {
+    "long": 120.9524,
+    "lat": 14.5965,
+    "accessibility_score": 3
+  },
+  {
+    "long": 120.9544,
+    "lat": 14.5966,
+    "accessibility_score": 9
+  },
+  {
+    "long": 120.9554,
+    "lat": 14.5906,
+    "accessibility_score": 2
+  },
+  {
+    "long": 120.9556,
+    "lat": 14.5891,
+    "accessibility_score": 1
+  },
+  {
+    "long": 120.9559,
+    "lat": 14.5888,
+    "accessibility_score": 1
+  },
+  {
+    "long": 120.9572,
+    "lat": 14.589,
+    "accessibility_score": 1
+  },
+  {
+    "long": 120.9576,
+    "lat": 14.5875,
+    "accessibility_score": 3
+  },
+  {
+    "long": 120.9588,
+    "lat": 14.5889,
+    "accessibility_score": 3
+  },
+  {
+    "long": 120.9592,
+    "lat": 14.5892,
+    "accessibility_score": 7
+  },
+  {
+    "long": 120.9593,
+    "lat": 14.6296,
+    "accessibility_score": 8
+  },
+  {
+    "long": 120.9595,
+    "lat": 14.6298,
+    "accessibility_score": 3
+  },
+  {
+    "long": 120.9596,
+    "lat": 14.6182,
+    "accessibility_score": 9
+  },
+  {
+    "long": 120.9599,
+    "lat": 14.589,
+    "accessibility_score": 4
+  },
+  {
+    "long": 120.96,
+    "lat": 14.6205,
+    "accessibility_score": 3
+  },
+  {
+    "long": 120.9601,
+    "lat": 14.6182,
+    "accessibility_score": 2
+  },
+  {
+    "long": 120.9611,
+    "lat": 14.6232,
+    "accessibility_score": 2.5
+  },
+  {
+    "long": 120.9611,
+    "lat": 14.6298,
+    "accessibility_score": 4
+  },
+  {
+    "long": 120.9615,
+    "lat": 14.6204,
+    "accessibility_score": 3
+  },
+  {
+    "long": 120.9625,
+    "lat": 14.6297,
+    "accessibility_score": 3
+  },
+  {
+    "long": 120.9628,
+    "lat": 14.6254,
+    "accessibility_score": 7.5
+  },
+  {
+    "long": 120.9628,
+    "lat": 14.6298,
+    "accessibility_score": 4
+  },
+  {
+    "long": 120.9632,
+    "lat": 14.6182,
+    "accessibility_score": 3.6666666666666665
+  },
+  {
+    "long": 120.9635,
+    "lat": 14.6232,
+    "accessibility_score": 2.6666666666666665
+  },
+  {
+    "long": 120.9639,
+    "lat": 14.6131,
+    "accessibility_score": 2
+  },
+  {
+    "long": 120.9647,
+    "lat": 14.6073,
+    "accessibility_score": 1
+  },
+  {
+    "long": 120.9647,
+    "lat": 14.6232,
+    "accessibility_score": 3
+  },
+  {
+    "long": 120.9655,
+    "lat": 14.6073,
+    "accessibility_score": 2.5
+  },
+  {
+    "long": 120.9656,
+    "lat": 14.6131,
+    "accessibility_score": 3
+  },
+  {
+    "long": 120.9669,
+    "lat": 14.6254,
+    "accessibility_score": 9
+  },
+  {
+    "long": 120.9676,
+    "lat": 14.5941,
+    "accessibility_score": 4
+  },
+  {
+    "long": 120.9676,
+    "lat": 14.6209,
+    "accessibility_score": 4
+  },
+  {
+    "long": 120.9681,
+    "lat": 14.6073,
+    "accessibility_score": 1
+  },
+  {
+    "long": 120.9683,
+    "lat": 14.5941,
+    "accessibility_score": 2.5
+  },
+  {
+    "long": 120.9689,
+    "lat": 14.5973,
+    "accessibility_score": 8
+  },
+  {
+    "long": 120.969,
+    "lat": 14.6204,
+    "accessibility_score": 3
+  },
+  {
+    "long": 120.9692,
+    "lat": 14.6209,
+    "accessibility_score": 3
+  },
+  {
+    "long": 120.9699,
+    "lat": 14.5872,
+    "accessibility_score": 7
+  },
+  {
+    "long": 120.9699,
+    "lat": 14.6232,
+    "accessibility_score": 4
+  },
+  {
+    "long": 120.9702,
+    "lat": 14.5869,
+    "accessibility_score": 6
+  },
+  {
+    "long": 120.9702,
+    "lat": 14.5872,
+    "accessibility_score": 6.5
+  },
+  {
+    "long": 120.9702,
+    "lat": 14.5941,
+    "accessibility_score": 3.5
+  },
+  {
+    "long": 120.9704,
+    "lat": 14.5906,
+    "accessibility_score": 5.333333333333333
+  },
+  {
+    "long": 120.9707,
+    "lat": 14.5965,
+    "accessibility_score": 9
+  },
+  {
+    "long": 120.9714,
+    "lat": 14.5906,
+    "accessibility_score": 4
+  },
+  {
+    "long": 120.9715,
+    "lat": 14.5941,
+    "accessibility_score": 10
+  },
+  {
+    "long": 120.9715,
+    "lat": 14.5964,
+    "accessibility_score": 5
+  },
+  {
+    "long": 120.9715,
+    "lat": 14.6073,
+    "accessibility_score": 6
+  },
+  {
+    "long": 120.9718,
+    "lat": 14.5853,
+    "accessibility_score": 3.5
+  },
+  {
+    "long": 120.9718,
+    "lat": 14.6193,
+    "accessibility_score": 3
+  },
+  {
+    "long": 120.97200000000001,
+    "lat": 14.5873,
+    "accessibility_score": 1.6666666666666667
+  },
+  {
+    "long": 120.9721,
+    "lat": 14.5889,
+    "accessibility_score": 5
+  },
+  {
+    "long": 120.9722,
+    "lat": 14.5995,
+    "accessibility_score": 4
+  },
+  {
+    "long": 120.9723,
+    "lat": 14.5852,
+    "accessibility_score": 2
+  },
+  {
+    "long": 120.9723,
+    "lat": 14.5869,
+    "accessibility_score": 3
+  },
+  {
+    "long": 120.9723,
+    "lat": 14.5973,
+    "accessibility_score": 2
+  },
+  {
+    "long": 120.9726,
+    "lat": 14.5888,
+    "accessibility_score": 10
+  },
+  {
+    "long": 120.9732,
+    "lat": 14.5854,
+    "accessibility_score": 6.5
+  },
+  {
+    "long": 120.9732,
+    "lat": 14.5995,
+    "accessibility_score": 4
+  },
+  {
+    "long": 120.9736,
+    "lat": 14.6295,
+    "accessibility_score": 8
+  },
+  {
+    "long": 120.9737,
+    "lat": 14.5812,
+    "accessibility_score": 10
+  },
+  {
+    "long": 120.9742,
+    "lat": 14.5818,
+    "accessibility_score": 1
+  },
+  {
+    "long": 120.9744,
+    "lat": 14.5891,
+    "accessibility_score": 1
+  },
+  {
+    "long": 120.9744,
+    "lat": 14.5906,
+    "accessibility_score": 10
+  },
+  {
+    "long": 120.9747,
+    "lat": 14.5795,
+    "accessibility_score": 4
+  },
+  {
+    "long": 120.9747,
+    "lat": 14.5868,
+    "accessibility_score": 10
+  },
+  {
+    "long": 120.975,
+    "lat": 14.5995,
+    "accessibility_score": 5
+  },
+  {
+    "long": 120.9756,
+    "lat": 14.5834,
+    "accessibility_score": 7
+  },
+  {
+    "long": 120.9756,
+    "lat": 14.5837,
+    "accessibility_score": 8
+  },
+  {
+    "long": 120.9757,
+    "lat": 14.5887,
+    "accessibility_score": 1
+  },
+  {
+    "long": 120.9757,
+    "lat": 14.6254,
+    "accessibility_score": 5
+  },
+  {
+    "long": 120.9758,
+    "lat": 14.6205,
+    "accessibility_score": 2
+  },
+  {
+    "long": 120.9759,
+    "lat": 14.6205,
+    "accessibility_score": 1
+  },
+  {
+    "long": 120.976,
+    "lat": 14.5812,
+    "accessibility_score": 10
+  },
+  {
+    "long": 120.976,
+    "lat": 14.5813,
+    "accessibility_score": 10
+  },
+  {
+    "long": 120.9761,
+    "lat": 14.5813,
+    "accessibility_score": 7
+  },
+  {
+    "long": 120.9761,
+    "lat": 14.5837,
+    "accessibility_score": 8
+  },
+  {
+    "long": 120.9761,
+    "lat": 14.5859,
+    "accessibility_score": 10
+  },
+  {
+    "long": 120.9761,
+    "lat": 14.6205,
+    "accessibility_score": 2
+  },
+  {
+    "long": 120.9762,
+    "lat": 14.5811,
+    "accessibility_score": 10
+  },
+  {
+    "long": 120.9765,
+    "lat": 14.5797,
+    "accessibility_score": 6
+  },
+  {
+    "long": 120.9768,
+    "lat": 14.5854,
+    "accessibility_score": 9
+  },
+  {
+    "long": 120.977,
+    "lat": 14.5964,
+    "accessibility_score": 2
+  },
+  {
+    "long": 120.9771,
+    "lat": 14.5797,
+    "accessibility_score": 3
+  },
+  {
+    "long": 120.9771,
+    "lat": 14.5799,
+    "accessibility_score": 8
+  },
+  {
+    "long": 120.9772,
+    "lat": 14.5859,
+    "accessibility_score": 7
+  },
+  {
+    "long": 120.9772,
+    "lat": 14.5973,
+    "accessibility_score": 6
+  },
+  {
+    "long": 120.9772,
+    "lat": 14.6297,
+    "accessibility_score": 7
+  },
+  {
+    "long": 120.9776,
+    "lat": 14.6071,
+    "accessibility_score": 4
+  },
+  {
+    "long": 120.9777,
+    "lat": 14.5813,
+    "accessibility_score": 10
+  },
+  {
+    "long": 120.9777,
+    "lat": 14.5814,
+    "accessibility_score": 10
+  },
+  {
+    "long": 120.9777,
+    "lat": 14.5831,
+    "accessibility_score": 10
+  },
+  {
+    "long": 120.9778,
+    "lat": 14.5831,
+    "accessibility_score": 10
+  },
+  {
+    "long": 120.9778,
+    "lat": 14.6295,
+    "accessibility_score": 3
+  },
+  {
+    "long": 120.9779,
+    "lat": 14.5811,
+    "accessibility_score": 9
+  },
+  {
+    "long": 120.9779,
+    "lat": 14.589,
+    "accessibility_score": 3.6666666666666665
+  },
+  {
+    "long": 120.978,
+    "lat": 14.5858,
+    "accessibility_score": 10
+  },
+  {
+    "long": 120.978,
+    "lat": 14.5947,
+    "accessibility_score": 6
+  },
+  {
+    "long": 120.9781,
+    "lat": 14.5859,
+    "accessibility_score": 4
+  },
+  {
+    "long": 120.9782,
+    "lat": 14.5859,
+    "accessibility_score": 5
+  },
+  {
+    "long": 120.9782,
+    "lat": 14.5941,
+    "accessibility_score": 4
+  },
+  {
+    "long": 120.9783,
+    "lat": 14.5858,
+    "accessibility_score": 9
+  },
+  {
+    "long": 120.9784,
+    "lat": 14.5805,
+    "accessibility_score": 9
+  },
+  {
+    "long": 120.9784,
+    "lat": 14.5858,
+    "accessibility_score": 5
+  },
+  {
+    "long": 120.9784,
+    "lat": 14.5869,
+    "accessibility_score": 10
+  },
+  {
+    "long": 120.9786,
+    "lat": 14.5872,
+    "accessibility_score": 3
+  },
+  {
+    "long": 120.9788,
+    "lat": 14.5834,
+    "accessibility_score": 10
+  },
+  {
+    "long": 120.9788,
+    "lat": 14.5888,
+    "accessibility_score": 2
+  },
+  {
+    "long": 120.9789,
+    "lat": 14.5811,
+    "accessibility_score": 4
+  },
+  {
+    "long": 120.9789,
+    "lat": 14.5887,
+    "accessibility_score": 5
+  },
+  {
+    "long": 120.9792,
+    "lat": 14.5795,
+    "accessibility_score": 8
+  },
+  {
+    "long": 120.9792,
+    "lat": 14.5796,
+    "accessibility_score": 7.5
+  },
+  {
+    "long": 120.9792,
+    "lat": 14.5811,
+    "accessibility_score": 5.5
+  },
+  {
+    "long": 120.9793,
+    "lat": 14.5947,
+    "accessibility_score": 10
+  },
+  {
+    "long": 120.9794,
+    "lat": 14.5844,
+    "accessibility_score": 8
+  },
+  {
+    "long": 120.9796,
+    "lat": 14.5832,
+    "accessibility_score": 10
+  },
+  {
+    "long": 120.9797,
+    "lat": 14.5798,
+    "accessibility_score": 4
+  },
+  {
+    "long": 120.9798,
+    "lat": 14.6296,
+    "accessibility_score": 5
+  },
+  {
+    "long": 120.9799,
+    "lat": 14.5831,
+    "accessibility_score": 9
+  },
+  {
+    "long": 120.98,
+    "lat": 14.5941,
+    "accessibility_score": 4
+  },
+  {
+    "long": 120.98,
+    "lat": 14.5964,
+    "accessibility_score": 3
+  },
+  {
+    "long": 120.9801,
+    "lat": 14.6107,
+    "accessibility_score": 3
+  },
+  {
+    "long": 120.9802,
+    "lat": 14.5831,
+    "accessibility_score": 10
+  },
+  {
+    "long": 120.9803,
+    "lat": 14.5859,
+    "accessibility_score": 4
+  },
+  {
+    "long": 120.9804,
+    "lat": 14.5858,
+    "accessibility_score": 6
+  },
+  {
+    "long": 120.9805,
+    "lat": 14.5833,
+    "accessibility_score": 7
+  },
+  {
+    "long": 120.9806,
+    "lat": 14.5838,
+    "accessibility_score": 9
+  },
+  {
+    "long": 120.9807,
+    "lat": 14.5835,
+    "accessibility_score": 8
+  },
+  {
+    "long": 120.9807,
+    "lat": 14.5838,
+    "accessibility_score": 6
+  },
+  {
+    "long": 120.9808,
+    "lat": 14.5827,
+    "accessibility_score": 4.5
+  },
+  {
+    "long": 120.9808,
+    "lat": 14.5844,
+    "accessibility_score": 10
+  },
+  {
+    "long": 120.9808,
+    "lat": 14.5875,
+    "accessibility_score": 9
+  },
+  {
+    "long": 120.9809,
+    "lat": 14.5734,
+    "accessibility_score": 5
+  },
+  {
+    "long": 120.9809,
+    "lat": 14.5888,
+    "accessibility_score": 4
+  },
+  {
+    "long": 120.98100000000001,
+    "lat": 14.5837,
+    "accessibility_score": 9.333333333333334
+  },
+  {
+    "long": 120.9811,
+    "lat": 14.5736,
+    "accessibility_score": 7.5
+  },
+  {
+    "long": 120.9811,
+    "lat": 14.5795,
+    "accessibility_score": 2
+  },
+  {
+    "long": 120.9811,
+    "lat": 14.5818,
+    "accessibility_score": 2
+  },
+  {
+    "long": 120.9811,
+    "lat": 14.5837,
+    "accessibility_score": 9
+  },
+  {
+    "long": 120.9812,
+    "lat": 14.5735,
+    "accessibility_score": 6
+  },
+  {
+    "long": 120.9815,
+    "lat": 14.5713,
+    "accessibility_score": 10
+  },
+  {
+    "long": 120.9815,
+    "lat": 14.5797,
+    "accessibility_score": 4
+  },
+  {
+    "long": 120.9815,
+    "lat": 14.5836,
+    "accessibility_score": 9
+  },
+  {
+    "long": 120.9815,
+    "lat": 14.5858,
+    "accessibility_score": 6
+  },
+  {
+    "long": 120.9816,
+    "lat": 14.5714,
+    "accessibility_score": 10
+  },
+  {
+    "long": 120.9816,
+    "lat": 14.5814,
+    "accessibility_score": 6
+  },
+  {
+    "long": 120.9816,
+    "lat": 14.5833,
+    "accessibility_score": 10
+  },
+  {
+    "long": 120.9816,
+    "lat": 14.5875,
+    "accessibility_score": 4
+  },
+  {
+    "long": 120.9817,
+    "lat": 14.5834,
+    "accessibility_score": 9.5
+  },
+  {
+    "long": 120.9817,
+    "lat": 14.5836,
+    "accessibility_score": 8.666666666666666
+  },
+  {
+    "long": 120.9817,
+    "lat": 14.5844,
+    "accessibility_score": 10
+  },
+  {
+    "long": 120.9817,
+    "lat": 14.5853,
+    "accessibility_score": 8
+  },
+  {
+    "long": 120.9817,
+    "lat": 14.5947,
+    "accessibility_score": 8
+  },
+  {
+    "long": 120.9818,
+    "lat": 14.5833,
+    "accessibility_score": 6
+  },
+  {
+    "long": 120.9818,
+    "lat": 14.5843,
+    "accessibility_score": 7
+  },
+  {
+    "long": 120.9819,
+    "lat": 14.581,
+    "accessibility_score": 5
+  },
+  {
+    "long": 120.9819,
+    "lat": 14.5853,
+    "accessibility_score": 10
+  },
+  {
+    "long": 120.98200000000001,
+    "lat": 14.5853,
+    "accessibility_score": 9.666666666666666
+  },
+  {
+    "long": 120.98200000000001,
+    "lat": 14.5859,
+    "accessibility_score": 9
+  },
+  {
+    "long": 120.98200000000001,
+    "lat": 14.5876,
+    "accessibility_score": 7
+  },
+  {
+    "long": 120.9821,
+    "lat": 14.5735,
+    "accessibility_score": 6
+  },
+  {
+    "long": 120.9821,
+    "lat": 14.5852,
+    "accessibility_score": 10
+  },
+  {
+    "long": 120.9821,
+    "lat": 14.5859,
+    "accessibility_score": 3
+  },
+  {
+    "long": 120.9821,
+    "lat": 14.5875,
+    "accessibility_score": 7
+  },
+  {
+    "long": 120.9822,
+    "lat": 14.5714,
+    "accessibility_score": 6
+  },
+  {
+    "long": 120.9822,
+    "lat": 14.5843,
+    "accessibility_score": 6.5
+  },
+  {
+    "long": 120.9822,
+    "lat": 14.5844,
+    "accessibility_score": 10
+  },
+  {
+    "long": 120.9822,
+    "lat": 14.5859,
+    "accessibility_score": 7
+  },
+  {
+    "long": 120.9824,
+    "lat": 14.5707,
+    "accessibility_score": 9
+  },
+  {
+    "long": 120.9824,
+    "lat": 14.5736,
+    "accessibility_score": 4
+  },
+  {
+    "long": 120.9825,
+    "lat": 14.5797,
+    "accessibility_score": 7.666666666666667
+  },
+  {
+    "long": 120.9825,
+    "lat": 14.6107,
+    "accessibility_score": 6
+  },
+  {
+    "long": 120.9825,
+    "lat": 14.6131,
+    "accessibility_score": 4
+  },
+  {
+    "long": 120.9826,
+    "lat": 14.5796,
+    "accessibility_score": 8
+  },
+  {
+    "long": 120.9826,
+    "lat": 14.6131,
+    "accessibility_score": 8
+  },
+  {
+    "long": 120.9827,
+    "lat": 14.5797,
+    "accessibility_score": 6.333333333333333
+  },
+  {
+    "long": 120.9827,
+    "lat": 14.5799,
+    "accessibility_score": 3
+  },
+  {
+    "long": 120.9827,
+    "lat": 14.5832,
+    "accessibility_score": 9
+  },
+  {
+    "long": 120.9827,
+    "lat": 14.5833,
+    "accessibility_score": 6
+  },
+  {
+    "long": 120.9827,
+    "lat": 14.5843,
+    "accessibility_score": 10
+  },
+  {
+    "long": 120.9828,
+    "lat": 14.6181,
+    "accessibility_score": 5
+  },
+  {
+    "long": 120.98299999999999,
+    "lat": 14.5837,
+    "accessibility_score": 9
+  },
+  {
+    "long": 120.9831,
+    "lat": 14.5836,
+    "accessibility_score": 10
+  },
+  {
+    "long": 120.9832,
+    "lat": 14.5817,
+    "accessibility_score": 1
+  },
+  {
+    "long": 120.9833,
+    "lat": 14.5712,
+    "accessibility_score": 4.5
+  },
+  {
+    "long": 120.9833,
+    "lat": 14.5818,
+    "accessibility_score": 5
+  },
+  {
+    "long": 120.9834,
+    "lat": 14.571,
+    "accessibility_score": 3
+  },
+  {
+    "long": 120.9835,
+    "lat": 14.5818,
+    "accessibility_score": 6
+  },
+  {
+    "long": 120.9835,
+    "lat": 14.5832,
+    "accessibility_score": 3
+  },
+  {
+    "long": 120.9835,
+    "lat": 14.6131,
+    "accessibility_score": 4
+  },
+  {
+    "long": 120.9838,
+    "lat": 14.5578,
+    "accessibility_score": 8.666666666666666
+  },
+  {
+    "long": 120.9838,
+    "lat": 14.6073,
+    "accessibility_score": 6
+  },
+  {
+    "long": 120.9841,
+    "lat": 14.5715,
+    "accessibility_score": 7
+  },
+  {
+    "long": 120.9841,
+    "lat": 14.5835,
+    "accessibility_score": 7
+  },
+  {
+    "long": 120.9842,
+    "lat": 14.5714,
+    "accessibility_score": 2.5
+  },
+  {
+    "long": 120.9842,
+    "lat": 14.5827,
+    "accessibility_score": 4.5
+  },
+  {
+    "long": 120.9843,
+    "lat": 14.5733,
+    "accessibility_score": 9
+  },
+  {
+    "long": 120.9843,
+    "lat": 14.6181,
+    "accessibility_score": 2
+  },
+  {
+    "long": 120.9844,
+    "lat": 14.5886,
+    "accessibility_score": 3
+  },
+  {
+    "long": 120.9845,
+    "lat": 14.5795,
+    "accessibility_score": 6
+  },
+  {
+    "long": 120.9846,
+    "lat": 14.5796,
+    "accessibility_score": 3
+  },
+  {
+    "long": 120.9848,
+    "lat": 14.6181,
+    "accessibility_score": 3.3333333333333335
+  },
+  {
+    "long": 120.985,
+    "lat": 14.6254,
+    "accessibility_score": 4
+  },
+  {
+    "long": 120.9854,
+    "lat": 14.5995,
+    "accessibility_score": 2.5
+  },
+  {
+    "long": 120.9855,
+    "lat": 14.5574,
+    "accessibility_score": 9
+  },
+  {
+    "long": 120.9855,
+    "lat": 14.5799,
+    "accessibility_score": 5
+  },
+  {
+    "long": 120.9858,
+    "lat": 14.6072,
+    "accessibility_score": 5
+  },
+  {
+    "long": 120.9858,
+    "lat": 14.6254,
+    "accessibility_score": 8
+  },
+  {
+    "long": 120.9859,
+    "lat": 14.5858,
+    "accessibility_score": 5
+  },
+  {
+    "long": 120.986,
+    "lat": 14.607000000000001,
+    "accessibility_score": 8
+  },
+  {
+    "long": 120.9862,
+    "lat": 14.5818,
+    "accessibility_score": 4
+  },
+  {
+    "long": 120.9863,
+    "lat": 14.5707,
+    "accessibility_score": 7
+  },
+  {
+    "long": 120.9863,
+    "lat": 14.5853,
+    "accessibility_score": 7
+  },
+  {
+    "long": 120.9864,
+    "lat": 14.5707,
+    "accessibility_score": 6.5
+  },
+  {
+    "long": 120.9864,
+    "lat": 14.6209,
+    "accessibility_score": 6
+  },
+  {
+    "long": 120.9866,
+    "lat": 14.5734,
+    "accessibility_score": 8
+  },
+  {
+    "long": 120.9866,
+    "lat": 14.5833,
+    "accessibility_score": 8.5
+  },
+  {
+    "long": 120.9867,
+    "lat": 14.5707,
+    "accessibility_score": 10
+  },
+  {
+    "long": 120.9867,
+    "lat": 14.6209,
+    "accessibility_score": 4.666666666666667
+  },
+  {
+    "long": 120.9868,
+    "lat": 14.5705,
+    "accessibility_score": 9
+  },
+  {
+    "long": 120.9869,
+    "lat": 14.5652,
+    "accessibility_score": 4
+  },
+  {
+    "long": 120.9871,
+    "lat": 14.5833,
+    "accessibility_score": 4
+  },
+  {
+    "long": 120.9872,
+    "lat": 14.6107,
+    "accessibility_score": 6
+  },
+  {
+    "long": 120.9873,
+    "lat": 14.5831,
+    "accessibility_score": 7
+  },
+  {
+    "long": 120.9874,
+    "lat": 14.6209,
+    "accessibility_score": 9
+  },
+  {
+    "long": 120.9875,
+    "lat": 14.5716,
+    "accessibility_score": 5
+  },
+  {
+    "long": 120.9875,
+    "lat": 14.5834,
+    "accessibility_score": 6
+  },
+  {
+    "long": 120.9876,
+    "lat": 14.5833,
+    "accessibility_score": 6
+  },
+  {
+    "long": 120.9876,
+    "lat": 14.6071,
+    "accessibility_score": 5
+  },
+  {
+    "long": 120.9878,
+    "lat": 14.5843,
+    "accessibility_score": 4
+  },
+  {
+    "long": 120.9879,
+    "lat": 14.5735,
+    "accessibility_score": 7
+  },
+  {
+    "long": 120.988,
+    "lat": 14.6296,
+    "accessibility_score": 3.5
+  },
+  {
+    "long": 120.9882,
+    "lat": 14.5811,
+    "accessibility_score": 6
+  },
+  {
+    "long": 120.9882,
+    "lat": 14.5837,
+    "accessibility_score": 5
+  },
+  {
+    "long": 120.9884,
+    "lat": 14.581,
+    "accessibility_score": 9
+  },
+  {
+    "long": 120.9884,
+    "lat": 14.5995,
+    "accessibility_score": 3
+  },
+  {
+    "long": 120.9885,
+    "lat": 14.5708,
+    "accessibility_score": 6
+  },
+  {
+    "long": 120.9885,
+    "lat": 14.5811,
+    "accessibility_score": 10
+  },
+  {
+    "long": 120.9885,
+    "lat": 14.5818,
+    "accessibility_score": 2
+  },
+  {
+    "long": 120.9885,
+    "lat": 14.5995,
+    "accessibility_score": 4
+  },
+  {
+    "long": 120.9887,
+    "lat": 14.6107,
+    "accessibility_score": 5.5
+  },
+  {
+    "long": 120.9888,
+    "lat": 14.581,
+    "accessibility_score": 8
+  },
+  {
+    "long": 120.9891,
+    "lat": 14.5839,
+    "accessibility_score": 7
+  },
+  {
+    "long": 120.9892,
+    "lat": 14.5736,
+    "accessibility_score": 3
+  },
+  {
+    "long": 120.9892,
+    "lat": 14.5811,
+    "accessibility_score": 6
+  },
+  {
+    "long": 120.9892,
+    "lat": 14.5965,
+    "accessibility_score": 4
+  },
+  {
+    "long": 120.9893,
+    "lat": 14.581,
+    "accessibility_score": 6
+  },
+  {
+    "long": 120.9893,
+    "lat": 14.5964,
+    "accessibility_score": 3
+  },
+  {
+    "long": 120.9894,
+    "lat": 14.6073,
+    "accessibility_score": 8.5
+  },
+  {
+    "long": 120.9894,
+    "lat": 14.6107,
+    "accessibility_score": 7
+  },
+  {
+    "long": 120.9895,
+    "lat": 14.5965,
+    "accessibility_score": 3
+  },
+  {
+    "long": 120.9895,
+    "lat": 14.5973,
+    "accessibility_score": 9
+  },
+  {
+    "long": 120.9896,
+    "lat": 14.5817,
+    "accessibility_score": 8
+  },
+  {
+    "long": 120.9898,
+    "lat": 14.5578,
+    "accessibility_score": 3
+  },
+  {
+    "long": 120.9898,
+    "lat": 14.5799,
+    "accessibility_score": 4
+  },
+  {
+    "long": 120.9901,
+    "lat": 14.5734,
+    "accessibility_score": 4
+  },
+  {
+    "long": 120.9901,
+    "lat": 14.6073,
+    "accessibility_score": 7
+  },
+  {
+    "long": 120.9901,
+    "lat": 14.6107,
+    "accessibility_score": 9
+  },
+  {
+    "long": 120.9905,
+    "lat": 14.5733,
+    "accessibility_score": 7
+  },
+  {
+    "long": 120.9907,
+    "lat": 14.5804,
+    "accessibility_score": 8
+  },
+  {
+    "long": 120.9907,
+    "lat": 14.5965,
+    "accessibility_score": 6
+  },
+  {
+    "long": 120.9908,
+    "lat": 14.5734,
+    "accessibility_score": 7
+  },
+  {
+    "long": 120.991,
+    "lat": 14.5649,
+    "accessibility_score": 3
+  },
+  {
+    "long": 120.991,
+    "lat": 14.6296,
+    "accessibility_score": 4
+  },
+  {
+    "long": 120.9912,
+    "lat": 14.5965,
+    "accessibility_score": 6
+  },
+  {
+    "long": 120.9913,
+    "lat": 14.5705,
+    "accessibility_score": 8
+  },
+  {
+    "long": 120.9917,
+    "lat": 14.5706,
+    "accessibility_score": 6
+  },
+  {
+    "long": 120.9919,
+    "lat": 14.5704,
+    "accessibility_score": 7
+  },
+  {
+    "long": 120.9919,
+    "lat": 14.5852,
+    "accessibility_score": 7
+  },
+  {
+    "long": 120.992,
+    "lat": 14.5652,
+    "accessibility_score": 1.5
+  },
+  {
+    "long": 120.9921,
+    "lat": 14.5711,
+    "accessibility_score": 6
+  },
+  {
+    "long": 120.9921,
+    "lat": 14.5712,
+    "accessibility_score": 6
+  },
+  {
+    "long": 120.9921,
+    "lat": 14.5734,
+    "accessibility_score": 5
+  },
+  {
+    "long": 120.9922,
+    "lat": 14.5712,
+    "accessibility_score": 7
+  },
+  {
+    "long": 120.9922,
+    "lat": 14.607000000000001,
+    "accessibility_score": 6
+  },
+  {
+    "long": 120.9922,
+    "lat": 14.6231,
+    "accessibility_score": 3
+  },
+  {
+    "long": 120.9923,
+    "lat": 14.571,
+    "accessibility_score": 7
+  },
+  {
+    "long": 120.9923,
+    "lat": 14.5714,
+    "accessibility_score": 5
+  },
+  {
+    "long": 120.9924,
+    "lat": 14.6072,
+    "accessibility_score": 4
+  },
+  {
+    "long": 120.9925,
+    "lat": 14.5704,
+    "accessibility_score": 4
+  },
+  {
+    "long": 120.9926,
+    "lat": 14.5851,
+    "accessibility_score": 7.5
+  },
+  {
+    "long": 120.9927,
+    "lat": 14.5716,
+    "accessibility_score": 4
+  },
+  {
+    "long": 120.9929,
+    "lat": 14.6073,
+    "accessibility_score": 6.5
+  },
+  {
+    "long": 120.993,
+    "lat": 14.5757,
+    "accessibility_score": 7
+  },
+  {
+    "long": 120.9932,
+    "lat": 14.5853,
+    "accessibility_score": 8
+  },
+  {
+    "long": 120.9934,
+    "lat": 14.5799,
+    "accessibility_score": 3
+  },
+  {
+    "long": 120.9934,
+    "lat": 14.5853,
+    "accessibility_score": 3
+  },
+  {
+    "long": 120.9935,
+    "lat": 14.5757,
+    "accessibility_score": 5
+  },
+  {
+    "long": 120.9935,
+    "lat": 14.589,
+    "accessibility_score": 4
+  },
+  {
+    "long": 120.9935,
+    "lat": 14.5891,
+    "accessibility_score": 4
+  },
+  {
+    "long": 120.9936,
+    "lat": 14.5858,
+    "accessibility_score": 6
+  },
+  {
+    "long": 120.9937,
+    "lat": 14.5853,
+    "accessibility_score": 8
+  },
+  {
+    "long": 120.9938,
+    "lat": 14.5851,
+    "accessibility_score": 8
+  },
+  {
+    "long": 120.9938,
+    "lat": 14.5858,
+    "accessibility_score": 4
+  },
+  {
+    "long": 120.9938,
+    "lat": 14.5859,
+    "accessibility_score": 6
+  },
+  {
+    "long": 120.9939,
+    "lat": 14.5651,
+    "accessibility_score": 8
+  },
+  {
+    "long": 120.9939,
+    "lat": 14.5704,
+    "accessibility_score": 9
+  },
+  {
+    "long": 120.9939,
+    "lat": 14.5852,
+    "accessibility_score": 8
+  },
+  {
+    "long": 120.994,
+    "lat": 14.5651,
+    "accessibility_score": 3
+  },
+  {
+    "long": 120.994,
+    "lat": 14.5653,
+    "accessibility_score": 2
+  },
+  {
+    "long": 120.994,
+    "lat": 14.571,
+    "accessibility_score": 4.5
+  },
+  {
+    "long": 120.994,
+    "lat": 14.5734,
+    "accessibility_score": 6
+  },
+  {
+    "long": 120.994,
+    "lat": 14.5853,
+    "accessibility_score": 3
+  },
+  {
+    "long": 120.9941,
+    "lat": 14.5733,
+    "accessibility_score": 4
+  },
+  {
+    "long": 120.9941,
+    "lat": 14.5734,
+    "accessibility_score": 10
+  },
+  {
+    "long": 120.9941,
+    "lat": 14.5947,
+    "accessibility_score": 10
+  },
+  {
+    "long": 120.9942,
+    "lat": 14.5705,
+    "accessibility_score": 10
+  },
+  {
+    "long": 120.9943,
+    "lat": 14.5827,
+    "accessibility_score": 2
+  },
+  {
+    "long": 120.9943,
+    "lat": 14.5833,
+    "accessibility_score": 2
+  },
+  {
+    "long": 120.9947,
+    "lat": 14.5812,
+    "accessibility_score": 6
+  },
+  {
+    "long": 120.9949,
+    "lat": 14.5714,
+    "accessibility_score": 7
+  },
+  {
+    "long": 120.995,
+    "lat": 14.5708,
+    "accessibility_score": 3.3333333333333335
+  },
+  {
+    "long": 120.9951,
+    "lat": 14.5805,
+    "accessibility_score": 3
+  },
+  {
+    "long": 120.9952,
+    "lat": 14.5873,
+    "accessibility_score": 3
+  },
+  {
+    "long": 120.9953,
+    "lat": 14.5716,
+    "accessibility_score": 2
+  },
+  {
+    "long": 120.9958,
+    "lat": 14.5708,
+    "accessibility_score": 2
+  },
+  {
+    "long": 120.9958,
+    "lat": 14.5709,
+    "accessibility_score": 2
+  },
+  {
+    "long": 120.9959,
+    "lat": 14.5757,
+    "accessibility_score": 3
+  },
+  {
+    "long": 120.99600000000001,
+    "lat": 14.5859,
+    "accessibility_score": 2
+  },
+  {
+    "long": 120.9962,
+    "lat": 14.5852,
+    "accessibility_score": 2
+  },
+  {
+    "long": 120.9965,
+    "lat": 14.5858,
+    "accessibility_score": 5
+  },
+  {
+    "long": 120.9966,
+    "lat": 14.5562,
+    "accessibility_score": 3
+  },
+  {
+    "long": 120.9966,
+    "lat": 14.5567,
+    "accessibility_score": 4
+  },
+  {
+    "long": 120.9966,
+    "lat": 14.5795,
+    "accessibility_score": 3
+  },
+  {
+    "long": 120.9966,
+    "lat": 14.613,
+    "accessibility_score": 7
+  },
+  {
+    "long": 120.9969,
+    "lat": 14.5554,
+    "accessibility_score": 7
+  },
+  {
+    "long": 120.99700000000001,
+    "lat": 14.5547,
+    "accessibility_score": 3
+  },
+  {
+    "long": 120.99700000000001,
+    "lat": 14.5549,
+    "accessibility_score": 3
+  },
+  {
+    "long": 120.99700000000001,
+    "lat": 14.5706,
+    "accessibility_score": 2
+  },
+  {
+    "long": 120.99700000000001,
+    "lat": 14.5887,
+    "accessibility_score": 8
+  },
+  {
+    "long": 120.9971,
+    "lat": 14.5891,
+    "accessibility_score": 4
+  },
+  {
+    "long": 120.9972,
+    "lat": 14.5735,
+    "accessibility_score": 3
+  },
+  {
+    "long": 120.9973,
+    "lat": 14.5817,
+    "accessibility_score": 2
+  },
+  {
+    "long": 120.9975,
+    "lat": 14.6181,
+    "accessibility_score": 5
+  },
+  {
+    "long": 120.9976,
+    "lat": 14.5757,
+    "accessibility_score": 4
+  },
+  {
+    "long": 120.9976,
+    "lat": 14.5868,
+    "accessibility_score": 4
+  },
+  {
+    "long": 120.9977,
+    "lat": 14.5818,
+    "accessibility_score": 9
+  },
+  {
+    "long": 120.99799999999999,
+    "lat": 14.5859,
+    "accessibility_score": 5
+  },
+  {
+    "long": 120.9981,
+    "lat": 14.5818,
+    "accessibility_score": 7
+  },
+  {
+    "long": 120.9981,
+    "lat": 14.5833,
+    "accessibility_score": 5
+  },
+  {
+    "long": 120.9982,
+    "lat": 14.5795,
+    "accessibility_score": 3
+  },
+  {
+    "long": 120.9982,
+    "lat": 14.5851,
+    "accessibility_score": 2
+  },
+  {
+    "long": 120.9984,
+    "lat": 14.6072,
+    "accessibility_score": 1
+  },
+  {
+    "long": 120.9985,
+    "lat": 14.5705,
+    "accessibility_score": 3
+  },
+  {
+    "long": 120.9986,
+    "lat": 14.5837,
+    "accessibility_score": 3
+  },
+  {
+    "long": 120.9987,
+    "lat": 14.5867,
+    "accessibility_score": 4
+  },
+  {
+    "long": 120.9988,
+    "lat": 14.5653,
+    "accessibility_score": 4
+  },
+  {
+    "long": 120.9989,
+    "lat": 14.5633,
+    "accessibility_score": 4
+  },
+  {
+    "long": 120.9989,
+    "lat": 14.5664,
+    "accessibility_score": 6
+  },
+  {
+    "long": 120.9989,
+    "lat": 14.6072,
+    "accessibility_score": 10
+  },
+  {
+    "long": 120.9991,
+    "lat": 14.5787,
+    "accessibility_score": 1
+  },
+  {
+    "long": 120.9991,
+    "lat": 14.581,
+    "accessibility_score": 5
+  },
+  {
+    "long": 120.9992,
+    "lat": 14.5803,
+    "accessibility_score": 6
+  },
+  {
+    "long": 120.9992,
+    "lat": 14.5805,
+    "accessibility_score": 7
+  },
+  {
+    "long": 120.9995,
+    "lat": 14.5787,
+    "accessibility_score": 1
+  },
+  {
+    "long": 120.9997,
+    "lat": 14.5705,
+    "accessibility_score": 4
+  },
+  {
+    "long": 120.9998,
+    "lat": 14.5757,
+    "accessibility_score": 5
+  },
+  {
+    "long": 120.9998,
+    "lat": 14.5812,
+    "accessibility_score": 9
+  },
+  {
+    "long": 121,
+    "lat": 14.5706,
+    "accessibility_score": 2
+  },
+  {
+    "long": 121,
+    "lat": 14.5837,
+    "accessibility_score": 6
+  },
+  {
+    "long": 121.0001,
+    "lat": 14.555,
+    "accessibility_score": 1.75
+  },
+  {
+    "long": 121.0003,
+    "lat": 14.5547,
+    "accessibility_score": 8
+  },
+  {
+    "long": 121.0003,
+    "lat": 14.5651,
+    "accessibility_score": 5
+  },
+  {
+    "long": 121.0004,
+    "lat": 14.6107,
+    "accessibility_score": 7
+  },
+  {
+    "long": 121.0005,
+    "lat": 14.5551,
+    "accessibility_score": 3
+  },
+  {
+    "long": 121.0005,
+    "lat": 14.5733,
+    "accessibility_score": 4
+  },
+  {
+    "long": 121.0006,
+    "lat": 14.5549,
+    "accessibility_score": 8
+  },
+  {
+    "long": 121.0006,
+    "lat": 14.5787,
+    "accessibility_score": 8
+  },
+  {
+    "long": 121.0007,
+    "lat": 14.555,
+    "accessibility_score": 8.5
+  },
+  {
+    "long": 121.0007,
+    "lat": 14.5551,
+    "accessibility_score": 3
+  },
+  {
+    "long": 121.0007,
+    "lat": 14.5558,
+    "accessibility_score": 5
+  },
+  {
+    "long": 121.0007,
+    "lat": 14.5853,
+    "accessibility_score": 3
+  },
+  {
+    "long": 121.0008,
+    "lat": 14.561,
+    "accessibility_score": 2
+  },
+  {
+    "long": 121.0008,
+    "lat": 14.5858,
+    "accessibility_score": 7
+  },
+  {
+    "long": 121.0009,
+    "lat": 14.5551,
+    "accessibility_score": 10
+  },
+  {
+    "long": 121.0009,
+    "lat": 14.5711,
+    "accessibility_score": 4
+  },
+  {
+    "long": 121.001,
+    "lat": 14.5542,
+    "accessibility_score": 4
+  },
+  {
+    "long": 121.001,
+    "lat": 14.5551,
+    "accessibility_score": 4.333333333333333
+  },
+  {
+    "long": 121.0011,
+    "lat": 14.5551,
+    "accessibility_score": 4
+  },
+  {
+    "long": 121.0011,
+    "lat": 14.5636,
+    "accessibility_score": 4
+  },
+  {
+    "long": 121.0012,
+    "lat": 14.5551,
+    "accessibility_score": 3
+  },
+  {
+    "long": 121.0012,
+    "lat": 14.5787,
+    "accessibility_score": 3
+  },
+  {
+    "long": 121.0013,
+    "lat": 14.5536,
+    "accessibility_score": 5.5
+  },
+  {
+    "long": 121.0013,
+    "lat": 14.5542,
+    "accessibility_score": 5.5
+  },
+  {
+    "long": 121.0013,
+    "lat": 14.555,
+    "accessibility_score": 8
+  },
+  {
+    "long": 121.0014,
+    "lat": 14.555,
+    "accessibility_score": 6
+  },
+  {
+    "long": 121.0014,
+    "lat": 14.5645,
+    "accessibility_score": 3
+  },
+  {
+    "long": 121.0014,
+    "lat": 14.5858,
+    "accessibility_score": 8
+  },
+  {
+    "long": 121.0015,
+    "lat": 14.5537,
+    "accessibility_score": 4.5
+  },
+  {
+    "long": 121.0015,
+    "lat": 14.561,
+    "accessibility_score": 9
+  },
+  {
+    "long": 121.0016,
+    "lat": 14.5549,
+    "accessibility_score": 5.666666666666667
+  },
+  {
+    "long": 121.0017,
+    "lat": 14.5558,
+    "accessibility_score": 6
+  },
+  {
+    "long": 121.0017,
+    "lat": 14.5646,
+    "accessibility_score": 5
+  },
+  {
+    "long": 121.0017,
+    "lat": 14.5796,
+    "accessibility_score": 3
+  },
+  {
+    "long": 121.0018,
+    "lat": 14.5852,
+    "accessibility_score": 6
+  },
+  {
+    "long": 121.0021,
+    "lat": 14.5526,
+    "accessibility_score": 6
+  },
+  {
+    "long": 121.0021,
+    "lat": 14.5844,
+    "accessibility_score": 3
+  },
+  {
+    "long": 121.0024,
+    "lat": 14.5548,
+    "accessibility_score": 6
+  },
+  {
+    "long": 121.0025,
+    "lat": 14.5802,
+    "accessibility_score": 8.5
+  },
+  {
+    "long": 121.0025,
+    "lat": 14.5804,
+    "accessibility_score": 8
+  },
+  {
+    "long": 121.0025,
+    "lat": 14.5836,
+    "accessibility_score": 2
+  },
+  {
+    "long": 121.0025,
+    "lat": 14.5843,
+    "accessibility_score": 5
+  },
+  {
+    "long": 121.0025,
+    "lat": 14.5844,
+    "accessibility_score": 5
+  },
+  {
+    "long": 121.0026,
+    "lat": 14.5541,
+    "accessibility_score": 8
+  },
+  {
+    "long": 121.0027,
+    "lat": 14.555,
+    "accessibility_score": 7.5
+  },
+  {
+    "long": 121.0027,
+    "lat": 14.5664,
+    "accessibility_score": 6
+  },
+  {
+    "long": 121.0028,
+    "lat": 14.5549,
+    "accessibility_score": 8
+  },
+  {
+    "long": 121.0029,
+    "lat": 14.555,
+    "accessibility_score": 7.25
+  },
+  {
+    "long": 121.0029,
+    "lat": 14.5802,
+    "accessibility_score": 10
+  },
+  {
+    "long": 121.0031,
+    "lat": 14.5537,
+    "accessibility_score": 2
+  },
+  {
+    "long": 121.0031,
+    "lat": 14.5708,
+    "accessibility_score": 4
+  },
+  {
+    "long": 121.0031,
+    "lat": 14.5888,
+    "accessibility_score": 4
+  },
+  {
+    "long": 121.0032,
+    "lat": 14.5612,
+    "accessibility_score": 7
+  },
+  {
+    "long": 121.0032,
+    "lat": 14.5633,
+    "accessibility_score": 2.6666666666666665
+  },
+  {
+    "long": 121.0032,
+    "lat": 14.5734,
+    "accessibility_score": 4
+  },
+  {
+    "long": 121.0032,
+    "lat": 14.5787,
+    "accessibility_score": 9
+  },
+  {
+    "long": 121.0032,
+    "lat": 14.5843,
+    "accessibility_score": 5.5
+  },
+  {
+    "long": 121.0032,
+    "lat": 14.607000000000001,
+    "accessibility_score": 7
+  },
+  {
+    "long": 121.0033,
+    "lat": 14.5551,
+    "accessibility_score": 7
+  },
+  {
+    "long": 121.0033,
+    "lat": 14.5837,
+    "accessibility_score": 6
+  },
+  {
+    "long": 121.0033,
+    "lat": 14.607000000000001,
+    "accessibility_score": 3.5
+  },
+  {
+    "long": 121.0034,
+    "lat": 14.571,
+    "accessibility_score": 1.5
+  },
+  {
+    "long": 121.0034,
+    "lat": 14.5837,
+    "accessibility_score": 1.5
+  },
+  {
+    "long": 121.0035,
+    "lat": 14.5558,
+    "accessibility_score": 7
+  },
+  {
+    "long": 121.0035,
+    "lat": 14.5664,
+    "accessibility_score": 2
+  },
+  {
+    "long": 121.0036,
+    "lat": 14.5558,
+    "accessibility_score": 1
+  },
+  {
+    "long": 121.0037,
+    "lat": 14.5644,
+    "accessibility_score": 2
+  },
+  {
+    "long": 121.0037,
+    "lat": 14.5802,
+    "accessibility_score": 2
+  },
+  {
+    "long": 121.0038,
+    "lat": 14.5568,
+    "accessibility_score": 5
+  },
+  {
+    "long": 121.0039,
+    "lat": 14.5517,
+    "accessibility_score": 5.333333333333333
+  },
+  {
+    "long": 121.0039,
+    "lat": 14.5757,
+    "accessibility_score": 1
+  },
+  {
+    "long": 121.0042,
+    "lat": 14.5795,
+    "accessibility_score": 4
+  },
+  {
+    "long": 121.0043,
+    "lat": 14.5549,
+    "accessibility_score": 2.6666666666666665
+  },
+  {
+    "long": 121.0043,
+    "lat": 14.557,
+    "accessibility_score": 9
+  },
+  {
+    "long": 121.0043,
+    "lat": 14.5886,
+    "accessibility_score": 4
+  },
+  {
+    "long": 121.0044,
+    "lat": 14.5633,
+    "accessibility_score": 3
+  },
+  {
+    "long": 121.0045,
+    "lat": 14.5541,
+    "accessibility_score": 5.833333333333333
+  },
+  {
+    "long": 121.0045,
+    "lat": 14.5787,
+    "accessibility_score": 3
+  },
+  {
+    "long": 121.0046,
+    "lat": 14.5645,
+    "accessibility_score": 5
+  },
+  {
+    "long": 121.0048,
+    "lat": 14.5511,
+    "accessibility_score": 7
+  },
+  {
+    "long": 121.0048,
+    "lat": 14.5651,
+    "accessibility_score": 6.5
+  },
+  {
+    "long": 121.0048,
+    "lat": 14.5795,
+    "accessibility_score": 4
+  },
+  {
+    "long": 121.0049,
+    "lat": 14.5526,
+    "accessibility_score": 5
+  },
+  {
+    "long": 121.0049,
+    "lat": 14.5599,
+    "accessibility_score": 4
+  },
+  {
+    "long": 121.0049,
+    "lat": 14.5874,
+    "accessibility_score": 2
+  },
+  {
+    "long": 121.005,
+    "lat": 14.5558,
+    "accessibility_score": 6.333333333333333
+  },
+  {
+    "long": 121.005,
+    "lat": 14.5658,
+    "accessibility_score": 6
+  },
+  {
+    "long": 121.0051,
+    "lat": 14.5638,
+    "accessibility_score": 4
+  },
+  {
+    "long": 121.0051,
+    "lat": 14.5796,
+    "accessibility_score": 4
+  },
+  {
+    "long": 121.0052,
+    "lat": 14.5509,
+    "accessibility_score": 2
+  },
+  {
+    "long": 121.0053,
+    "lat": 14.5511,
+    "accessibility_score": 4.333333333333333
+  },
+  {
+    "long": 121.0053,
+    "lat": 14.5644,
+    "accessibility_score": 8.333333333333334
+  },
+  {
+    "long": 121.0053,
+    "lat": 14.5683,
+    "accessibility_score": 4
+  },
+  {
+    "long": 121.0054,
+    "lat": 14.5837,
+    "accessibility_score": 2
+  },
+  {
+    "long": 121.0054,
+    "lat": 14.613,
+    "accessibility_score": 3
+  },
+  {
+    "long": 121.0055,
+    "lat": 14.5827,
+    "accessibility_score": 1
+  },
+  {
+    "long": 121.0056,
+    "lat": 14.5817,
+    "accessibility_score": 2
+  },
+  {
+    "long": 121.0056,
+    "lat": 14.5843,
+    "accessibility_score": 2
+  },
+  {
+    "long": 121.0057,
+    "lat": 14.5568,
+    "accessibility_score": 5.2
+  },
+  {
+    "long": 121.0057,
+    "lat": 14.557,
+    "accessibility_score": 4.166666666666667
+  },
+  {
+    "long": 121.0057,
+    "lat": 14.5733,
+    "accessibility_score": 1.5
+  },
+  {
+    "long": 121.0057,
+    "lat": 14.5844,
+    "accessibility_score": 2
+  },
+  {
+    "long": 121.0058,
+    "lat": 14.5508,
+    "accessibility_score": 6
+  },
+  {
+    "long": 121.0058,
+    "lat": 14.5711,
+    "accessibility_score": 4
+  },
+  {
+    "long": 121.006,
+    "lat": 14.5558,
+    "accessibility_score": 7.5
+  },
+  {
+    "long": 121.006,
+    "lat": 14.5803,
+    "accessibility_score": 4.5
+  },
+  {
+    "long": 121.006,
+    "lat": 14.5858,
+    "accessibility_score": 3
+  },
+  {
+    "long": 121.0061,
+    "lat": 14.5644,
+    "accessibility_score": 4
+  },
+  {
+    "long": 121.0061,
+    "lat": 14.5888,
+    "accessibility_score": 6.5
+  },
+  {
+    "long": 121.0062,
+    "lat": 14.5886,
+    "accessibility_score": 8
+  },
+  {
+    "long": 121.0063,
+    "lat": 14.5526,
+    "accessibility_score": 4
+  },
+  {
+    "long": 121.0064,
+    "lat": 14.5683,
+    "accessibility_score": 7
+  },
+  {
+    "long": 121.0065,
+    "lat": 14.5658,
+    "accessibility_score": 6
+  },
+  {
+    "long": 121.0066,
+    "lat": 14.5664,
+    "accessibility_score": 6
+  },
+  {
+    "long": 121.0067,
+    "lat": 14.5644,
+    "accessibility_score": 7
+  },
+  {
+    "long": 121.0068,
+    "lat": 14.5504,
+    "accessibility_score": 7
+  },
+  {
+    "long": 121.0068,
+    "lat": 14.5645,
+    "accessibility_score": 6
+  },
+  {
+    "long": 121.0069,
+    "lat": 14.5507,
+    "accessibility_score": 2
+  },
+  {
+    "long": 121.007,
+    "lat": 14.5503,
+    "accessibility_score": 6
+  },
+  {
+    "long": 121.007,
+    "lat": 14.5517,
+    "accessibility_score": 6.5
+  },
+  {
+    "long": 121.007,
+    "lat": 14.5584,
+    "accessibility_score": 4.5
+  },
+  {
+    "long": 121.007,
+    "lat": 14.5664,
+    "accessibility_score": 2
+  },
+  {
+    "long": 121.007,
+    "lat": 14.5709,
+    "accessibility_score": 2
+  },
+  {
+    "long": 121.0071,
+    "lat": 14.5514,
+    "accessibility_score": 3
+  },
+  {
+    "long": 121.0072,
+    "lat": 14.5511,
+    "accessibility_score": 3
+  },
+  {
+    "long": 121.0072,
+    "lat": 14.5514,
+    "accessibility_score": 2
+  },
+  {
+    "long": 121.0073,
+    "lat": 14.5504,
+    "accessibility_score": 3
+  },
+  {
+    "long": 121.0073,
+    "lat": 14.5508,
+    "accessibility_score": 3
+  },
+  {
+    "long": 121.0074,
+    "lat": 14.5504,
+    "accessibility_score": 2
+  },
+  {
+    "long": 121.0074,
+    "lat": 14.5508,
+    "accessibility_score": 3
+  },
+  {
+    "long": 121.0075,
+    "lat": 14.5498,
+    "accessibility_score": 2
+  },
+  {
+    "long": 121.0075,
+    "lat": 14.5584,
+    "accessibility_score": 4
+  },
+  {
+    "long": 121.0076,
+    "lat": 14.5812,
+    "accessibility_score": 10
+  },
+  {
+    "long": 121.0077,
+    "lat": 14.5548,
+    "accessibility_score": 3.6666666666666665
+  },
+  {
+    "long": 121.0077,
+    "lat": 14.5549,
+    "accessibility_score": 3
+  },
+  {
+    "long": 121.0077,
+    "lat": 14.5651,
+    "accessibility_score": 6
+  },
+  {
+    "long": 121.0077,
+    "lat": 14.5812,
+    "accessibility_score": 3
+  },
+  {
+    "long": 121.0079,
+    "lat": 14.5499,
+    "accessibility_score": 5
+  },
+  {
+    "long": 121.0079,
+    "lat": 14.5536,
+    "accessibility_score": 3
+  },
+  {
+    "long": 121.0079,
+    "lat": 14.5796,
+    "accessibility_score": 4.5
+  },
+  {
+    "long": 121.008,
+    "lat": 14.5505,
+    "accessibility_score": 7
+  },
+  {
+    "long": 121.008,
+    "lat": 14.5734,
+    "accessibility_score": 7
+  },
+  {
+    "long": 121.0082,
+    "lat": 14.55,
+    "accessibility_score": 3.3333333333333335
+  },
+  {
+    "long": 121.0082,
+    "lat": 14.6071,
+    "accessibility_score": 4
+  },
+  {
+    "long": 121.0083,
+    "lat": 14.5495,
+    "accessibility_score": 5
+  },
+  {
+    "long": 121.0083,
+    "lat": 14.557,
+    "accessibility_score": 4
+  },
+  {
+    "long": 121.0083,
+    "lat": 14.5678,
+    "accessibility_score": 3
+  },
+  {
+    "long": 121.0084,
+    "lat": 14.5537,
+    "accessibility_score": 6
+  },
+  {
+    "long": 121.0084,
+    "lat": 14.557,
+    "accessibility_score": 3
+  },
+  {
+    "long": 121.0084,
+    "lat": 14.5645,
+    "accessibility_score": 3
+  },
+  {
+    "long": 121.0085,
+    "lat": 14.557,
+    "accessibility_score": 6
+  },
+  {
+    "long": 121.0086,
+    "lat": 14.5507,
+    "accessibility_score": 2
+  },
+  {
+    "long": 121.0086,
+    "lat": 14.5511,
+    "accessibility_score": 3
+  },
+  {
+    "long": 121.0086,
+    "lat": 14.6071,
+    "accessibility_score": 4
+  },
+  {
+    "long": 121.0087,
+    "lat": 14.5506,
+    "accessibility_score": 6
+  },
+  {
+    "long": 121.0087,
+    "lat": 14.5507,
+    "accessibility_score": 4
+  },
+  {
+    "long": 121.0087,
+    "lat": 14.6072,
+    "accessibility_score": 8
+  },
+  {
+    "long": 121.0088,
+    "lat": 14.5507,
+    "accessibility_score": 7
+  },
+  {
+    "long": 121.0088,
+    "lat": 14.5718,
+    "accessibility_score": 5
+  },
+  {
+    "long": 121.0089,
+    "lat": 14.5458,
+    "accessibility_score": 3
+  },
+  {
+    "long": 121.0089,
+    "lat": 14.5537,
+    "accessibility_score": 6
+  },
+  {
+    "long": 121.0089,
+    "lat": 14.5673,
+    "accessibility_score": 6.666666666666667
+  },
+  {
+    "long": 121.0089,
+    "lat": 14.5717,
+    "accessibility_score": 6
+  },
+  {
+    "long": 121.0089,
+    "lat": 14.6071,
+    "accessibility_score": 4
+  },
+  {
+    "long": 121.009,
+    "lat": 14.5526,
+    "accessibility_score": 7
+  },
+  {
+    "long": 121.0091,
+    "lat": 14.5797,
+    "accessibility_score": 5
+  },
+  {
+    "long": 121.0093,
+    "lat": 14.5508,
+    "accessibility_score": 5
+  },
+  {
+    "long": 121.0094,
+    "lat": 14.5385,
+    "accessibility_score": 7
+  },
+  {
+    "long": 121.0094,
+    "lat": 14.5387,
+    "accessibility_score": 7
+  },
+  {
+    "long": 121.0095,
+    "lat": 14.5388,
+    "accessibility_score": 9
+  },
+  {
+    "long": 121.0095,
+    "lat": 14.5505,
+    "accessibility_score": 5.333333333333333
+  },
+  {
+    "long": 121.0095,
+    "lat": 14.6072,
+    "accessibility_score": 4
+  },
+  {
+    "long": 121.0096,
+    "lat": 14.5498,
+    "accessibility_score": 6
+  },
+  {
+    "long": 121.0096,
+    "lat": 14.5526,
+    "accessibility_score": 6.5
+  },
+  {
+    "long": 121.0096,
+    "lat": 14.5536,
+    "accessibility_score": 6
+  },
+  {
+    "long": 121.0096,
+    "lat": 14.5549,
+    "accessibility_score": 3.25
+  },
+  {
+    "long": 121.0097,
+    "lat": 14.5526,
+    "accessibility_score": 8
+  },
+  {
+    "long": 121.0098,
+    "lat": 14.5764,
+    "accessibility_score": 1.5
+  },
+  {
+    "long": 121.0101,
+    "lat": 14.5622,
+    "accessibility_score": 8
+  },
+  {
+    "long": 121.0102,
+    "lat": 14.5599,
+    "accessibility_score": 2.75
+  },
+  {
+    "long": 121.0103,
+    "lat": 14.5511,
+    "accessibility_score": 6
+  },
+  {
+    "long": 121.0104,
+    "lat": 14.5511,
+    "accessibility_score": 2
+  },
+  {
+    "long": 121.0104,
+    "lat": 14.5716,
+    "accessibility_score": 6
+  },
+  {
+    "long": 121.0105,
+    "lat": 14.5511,
+    "accessibility_score": 4
+  },
+  {
+    "long": 121.0105,
+    "lat": 14.5542,
+    "accessibility_score": 3.6666666666666665
+  },
+  {
+    "long": 121.0106,
+    "lat": 14.5495,
+    "accessibility_score": 2
+  },
+  {
+    "long": 121.0106,
+    "lat": 14.5516,
+    "accessibility_score": 4.666666666666667
+  },
+  {
+    "long": 121.0106,
+    "lat": 14.5651,
+    "accessibility_score": 3
+  },
+  {
+    "long": 121.0106,
+    "lat": 14.5673,
+    "accessibility_score": 4
+  },
+  {
+    "long": 121.0108,
+    "lat": 14.5386,
+    "accessibility_score": 1.5
+  },
+  {
+    "long": 121.0108,
+    "lat": 14.5389,
+    "accessibility_score": 7.5
+  },
+  {
+    "long": 121.0109,
+    "lat": 14.5533,
+    "accessibility_score": 5
+  },
+  {
+    "long": 121.0109,
+    "lat": 14.5658,
+    "accessibility_score": 3
+  },
+  {
+    "long": 121.0109,
+    "lat": 14.5672,
+    "accessibility_score": 7
+  },
+  {
+    "long": 121.01100000000001,
+    "lat": 14.5511,
+    "accessibility_score": 5
+  },
+  {
+    "long": 121.01100000000001,
+    "lat": 14.555,
+    "accessibility_score": 3.5
+  },
+  {
+    "long": 121.01100000000001,
+    "lat": 14.5858,
+    "accessibility_score": 3
+  },
+  {
+    "long": 121.0111,
+    "lat": 14.5503,
+    "accessibility_score": 3
+  },
+  {
+    "long": 121.0111,
+    "lat": 14.5514,
+    "accessibility_score": 9
+  },
+  {
+    "long": 121.0111,
+    "lat": 14.5858,
+    "accessibility_score": 3
+  },
+  {
+    "long": 121.0112,
+    "lat": 14.5386,
+    "accessibility_score": 1
+  },
+  {
+    "long": 121.0112,
+    "lat": 14.5387,
+    "accessibility_score": 3.5
+  },
+  {
+    "long": 121.0112,
+    "lat": 14.5507,
+    "accessibility_score": 4
+  },
+  {
+    "long": 121.0112,
+    "lat": 14.5512,
+    "accessibility_score": 5
+  },
+  {
+    "long": 121.0112,
+    "lat": 14.5548,
+    "accessibility_score": 3.5
+  },
+  {
+    "long": 121.0112,
+    "lat": 14.5549,
+    "accessibility_score": 6.5
+  },
+  {
+    "long": 121.0112,
+    "lat": 14.5612,
+    "accessibility_score": 9
+  },
+  {
+    "long": 121.0112,
+    "lat": 14.5817,
+    "accessibility_score": 8
+  },
+  {
+    "long": 121.0112,
+    "lat": 14.5858,
+    "accessibility_score": 2
+  },
+  {
+    "long": 121.0113,
+    "lat": 14.5549,
+    "accessibility_score": 3
+  },
+  {
+    "long": 121.0113,
+    "lat": 14.5636,
+    "accessibility_score": 8
+  },
+  {
+    "long": 121.0113,
+    "lat": 14.5858,
+    "accessibility_score": 4
+  },
+  {
+    "long": 121.0114,
+    "lat": 14.55,
+    "accessibility_score": 4
+  },
+  {
+    "long": 121.0114,
+    "lat": 14.5508,
+    "accessibility_score": 6
+  },
+  {
+    "long": 121.0114,
+    "lat": 14.5514,
+    "accessibility_score": 4
+  },
+  {
+    "long": 121.0115,
+    "lat": 14.5549,
+    "accessibility_score": 3
+  },
+  {
+    "long": 121.0115,
+    "lat": 14.5859,
+    "accessibility_score": 2.5
+  },
+  {
+    "long": 121.0116,
+    "lat": 14.5548,
+    "accessibility_score": 4
+  },
+  {
+    "long": 121.0117,
+    "lat": 14.5683,
+    "accessibility_score": 7
+  },
+  {
+    "long": 121.0117,
+    "lat": 14.5963,
+    "accessibility_score": 4
+  },
+  {
+    "long": 121.0118,
+    "lat": 14.5396,
+    "accessibility_score": 2
+  },
+  {
+    "long": 121.0118,
+    "lat": 14.5495,
+    "accessibility_score": 7
+  },
+  {
+    "long": 121.0118,
+    "lat": 14.5507,
+    "accessibility_score": 9
+  },
+  {
+    "long": 121.0118,
+    "lat": 14.5599,
+    "accessibility_score": 6
+  },
+  {
+    "long": 121.0119,
+    "lat": 14.5506,
+    "accessibility_score": 8
+  },
+  {
+    "long": 121.0119,
+    "lat": 14.5599,
+    "accessibility_score": 5
+  },
+  {
+    "long": 121.012,
+    "lat": 14.546,
+    "accessibility_score": 8
+  },
+  {
+    "long": 121.012,
+    "lat": 14.5548,
+    "accessibility_score": 2
+  },
+  {
+    "long": 121.012,
+    "lat": 14.5765,
+    "accessibility_score": 3
+  },
+  {
+    "long": 121.012,
+    "lat": 14.5787,
+    "accessibility_score": 6
+  },
+  {
+    "long": 121.0121,
+    "lat": 14.5503,
+    "accessibility_score": 6.333333333333333
+  },
+  {
+    "long": 121.0122,
+    "lat": 14.5397,
+    "accessibility_score": 7
+  },
+  {
+    "long": 121.0122,
+    "lat": 14.5622,
+    "accessibility_score": 4.333333333333333
+  },
+  {
+    "long": 121.0122,
+    "lat": 14.5867,
+    "accessibility_score": 6
+  },
+  {
+    "long": 121.0123,
+    "lat": 14.546,
+    "accessibility_score": 6
+  },
+  {
+    "long": 121.0123,
+    "lat": 14.5503,
+    "accessibility_score": 7.5
+  },
+  {
+    "long": 121.0123,
+    "lat": 14.5516,
+    "accessibility_score": 5
+  },
+  {
+    "long": 121.0124,
+    "lat": 14.5498,
+    "accessibility_score": 5.75
+  },
+  {
+    "long": 121.0124,
+    "lat": 14.5504,
+    "accessibility_score": 4
+  },
+  {
+    "long": 121.0124,
+    "lat": 14.5516,
+    "accessibility_score": 4
+  },
+  {
+    "long": 121.0124,
+    "lat": 14.5558,
+    "accessibility_score": 4
+  },
+  {
+    "long": 121.0124,
+    "lat": 14.5859,
+    "accessibility_score": 6
+  },
+  {
+    "long": 121.0124,
+    "lat": 14.5866,
+    "accessibility_score": 7.5
+  },
+  {
+    "long": 121.0125,
+    "lat": 14.5548,
+    "accessibility_score": 6.8
+  },
+  {
+    "long": 121.0125,
+    "lat": 14.5585,
+    "accessibility_score": 4
+  },
+  {
+    "long": 121.0125,
+    "lat": 14.5622,
+    "accessibility_score": 4
+  },
+  {
+    "long": 121.0125,
+    "lat": 14.5682,
+    "accessibility_score": 3
+  },
+  {
+    "long": 121.0125,
+    "lat": 14.5767,
+    "accessibility_score": 2
+  },
+  {
+    "long": 121.0125,
+    "lat": 14.5796,
+    "accessibility_score": 6
+  },
+  {
+    "long": 121.0126,
+    "lat": 14.5516,
+    "accessibility_score": 3
+  },
+  {
+    "long": 121.0126,
+    "lat": 14.5584,
+    "accessibility_score": 3
+  },
+  {
+    "long": 121.0126,
+    "lat": 14.5678,
+    "accessibility_score": 10
+  },
+  {
+    "long": 121.0126,
+    "lat": 14.5871,
+    "accessibility_score": 8
+  },
+  {
+    "long": 121.0127,
+    "lat": 14.5516,
+    "accessibility_score": 4
+  },
+  {
+    "long": 121.0127,
+    "lat": 14.5535,
+    "accessibility_score": 5
+  },
+  {
+    "long": 121.0127,
+    "lat": 14.5673,
+    "accessibility_score": 8
+  },
+  {
+    "long": 121.0128,
+    "lat": 14.5398,
+    "accessibility_score": 4
+  },
+  {
+    "long": 121.0128,
+    "lat": 14.5664,
+    "accessibility_score": 8
+  },
+  {
+    "long": 121.0128,
+    "lat": 14.5875,
+    "accessibility_score": 2.6666666666666665
+  },
+  {
+    "long": 121.0128,
+    "lat": 14.607000000000001,
+    "accessibility_score": 6
+  },
+  {
+    "long": 121.0129,
+    "lat": 14.5516,
+    "accessibility_score": 6
+  },
+  {
+    "long": 121.0129,
+    "lat": 14.5867,
+    "accessibility_score": 4
+  },
+  {
+    "long": 121.0129,
+    "lat": 14.5886,
+    "accessibility_score": 4
+  },
+  {
+    "long": 121.0129,
+    "lat": 14.6073,
+    "accessibility_score": 8
+  },
+  {
+    "long": 121.01299999999999,
+    "lat": 14.5516,
+    "accessibility_score": 4
+  },
+  {
+    "long": 121.01299999999999,
+    "lat": 14.5549,
+    "accessibility_score": 4.4
+  },
+  {
+    "long": 121.01299999999999,
+    "lat": 14.5868,
+    "accessibility_score": 8
+  },
+  {
+    "long": 121.0131,
+    "lat": 14.5886,
+    "accessibility_score": 1
+  },
+  {
+    "long": 121.0132,
+    "lat": 14.5458,
+    "accessibility_score": 3
+  },
+  {
+    "long": 121.0132,
+    "lat": 14.5536,
+    "accessibility_score": 3.5
+  },
+  {
+    "long": 121.0132,
+    "lat": 14.557,
+    "accessibility_score": 5
+  },
+  {
+    "long": 121.0132,
+    "lat": 14.5664,
+    "accessibility_score": 4
+  },
+  {
+    "long": 121.0133,
+    "lat": 14.5504,
+    "accessibility_score": 8
+  },
+  {
+    "long": 121.0133,
+    "lat": 14.5568,
+    "accessibility_score": 8.5
+  },
+  {
+    "long": 121.0133,
+    "lat": 14.5818,
+    "accessibility_score": 3
+  },
+  {
+    "long": 121.0134,
+    "lat": 14.5516,
+    "accessibility_score": 7.333333333333333
+  },
+  {
+    "long": 121.0134,
+    "lat": 14.5638,
+    "accessibility_score": 8.5
+  },
+  {
+    "long": 121.0134,
+    "lat": 14.5818,
+    "accessibility_score": 3
+  },
+  {
+    "long": 121.0134,
+    "lat": 14.5831,
+    "accessibility_score": 3
+  },
+  {
+    "long": 121.0135,
+    "lat": 14.5504,
+    "accessibility_score": 8
+  },
+  {
+    "long": 121.0135,
+    "lat": 14.5508,
+    "accessibility_score": 6
+  },
+  {
+    "long": 121.0135,
+    "lat": 14.5633,
+    "accessibility_score": 3
+  },
+  {
+    "long": 121.0136,
+    "lat": 14.5497,
+    "accessibility_score": 7
+  },
+  {
+    "long": 121.0136,
+    "lat": 14.55,
+    "accessibility_score": 8
+  },
+  {
+    "long": 121.0136,
+    "lat": 14.5508,
+    "accessibility_score": 6.5
+  },
+  {
+    "long": 121.0136,
+    "lat": 14.5516,
+    "accessibility_score": 4.666666666666667
+  },
+  {
+    "long": 121.0136,
+    "lat": 14.555,
+    "accessibility_score": 4
+  },
+  {
+    "long": 121.0136,
+    "lat": 14.5585,
+    "accessibility_score": 2
+  },
+  {
+    "long": 121.0136,
+    "lat": 14.5818,
+    "accessibility_score": 3
+  },
+  {
+    "long": 121.0136,
+    "lat": 14.5964,
+    "accessibility_score": 4
+  },
+  {
+    "long": 121.0137,
+    "lat": 14.5395,
+    "accessibility_score": 4
+  },
+  {
+    "long": 121.0137,
+    "lat": 14.5497,
+    "accessibility_score": 8
+  },
+  {
+    "long": 121.0137,
+    "lat": 14.5498,
+    "accessibility_score": 5.5
+  },
+  {
+    "long": 121.0137,
+    "lat": 14.5499,
+    "accessibility_score": 7
+  },
+  {
+    "long": 121.0137,
+    "lat": 14.5503,
+    "accessibility_score": 7
+  },
+  {
+    "long": 121.0137,
+    "lat": 14.5658,
+    "accessibility_score": 7
+  },
+  {
+    "long": 121.0137,
+    "lat": 14.5766,
+    "accessibility_score": 8
+  },
+  {
+    "long": 121.0137,
+    "lat": 14.5871,
+    "accessibility_score": 5
+  },
+  {
+    "long": 121.0137,
+    "lat": 14.5964,
+    "accessibility_score": 9
+  },
+  {
+    "long": 121.0138,
+    "lat": 14.5533,
+    "accessibility_score": 4
+  },
+  {
+    "long": 121.0138,
+    "lat": 14.5535,
+    "accessibility_score": 6
+  },
+  {
+    "long": 121.0138,
+    "lat": 14.5644,
+    "accessibility_score": 10
+  },
+  {
+    "long": 121.0139,
+    "lat": 14.5644,
+    "accessibility_score": 4.5
+  },
+  {
+    "long": 121.0139,
+    "lat": 14.5645,
+    "accessibility_score": 4.5
+  },
+  {
+    "long": 121.0139,
+    "lat": 14.5664,
+    "accessibility_score": 7
+  },
+  {
+    "long": 121.014,
+    "lat": 14.5551,
+    "accessibility_score": 2
+  },
+  {
+    "long": 121.014,
+    "lat": 14.5834,
+    "accessibility_score": 5.5
+  },
+  {
+    "long": 121.0141,
+    "lat": 14.555,
+    "accessibility_score": 5
+  },
+  {
+    "long": 121.0141,
+    "lat": 14.5872,
+    "accessibility_score": 9
+  },
+  {
+    "long": 121.0142,
+    "lat": 14.5871,
+    "accessibility_score": 5
+  },
+  {
+    "long": 121.0143,
+    "lat": 14.5396,
+    "accessibility_score": 9
+  },
+  {
+    "long": 121.0143,
+    "lat": 14.5397,
+    "accessibility_score": 3
+  },
+  {
+    "long": 121.0143,
+    "lat": 14.5646,
+    "accessibility_score": 5
+  },
+  {
+    "long": 121.0143,
+    "lat": 14.5657,
+    "accessibility_score": 7
+  },
+  {
+    "long": 121.0143,
+    "lat": 14.5797,
+    "accessibility_score": 2
+  },
+  {
+    "long": 121.0144,
+    "lat": 14.5388,
+    "accessibility_score": 8
+  },
+  {
+    "long": 121.0144,
+    "lat": 14.5658,
+    "accessibility_score": 3
+  },
+  {
+    "long": 121.0145,
+    "lat": 14.5389,
+    "accessibility_score": 5.5
+  },
+  {
+    "long": 121.0145,
+    "lat": 14.5506,
+    "accessibility_score": 8
+  },
+  {
+    "long": 121.0145,
+    "lat": 14.550999999999998,
+    "accessibility_score": 8.5
+  },
+  {
+    "long": 121.0145,
+    "lat": 14.5875,
+    "accessibility_score": 3
+  },
+  {
+    "long": 121.0146,
+    "lat": 14.5516,
+    "accessibility_score": 4
+  },
+  {
+    "long": 121.0146,
+    "lat": 14.5599,
+    "accessibility_score": 6
+  },
+  {
+    "long": 121.0147,
+    "lat": 14.5533,
+    "accessibility_score": 4
+  },
+  {
+    "long": 121.0147,
+    "lat": 14.5599,
+    "accessibility_score": 8
+  },
+  {
+    "long": 121.0147,
+    "lat": 14.5651,
+    "accessibility_score": 4
+  },
+  {
+    "long": 121.0148,
+    "lat": 14.5396,
+    "accessibility_score": 6
+  },
+  {
+    "long": 121.0148,
+    "lat": 14.5397,
+    "accessibility_score": 6
+  },
+  {
+    "long": 121.0148,
+    "lat": 14.5398,
+    "accessibility_score": 6
+  },
+  {
+    "long": 121.0148,
+    "lat": 14.5572,
+    "accessibility_score": 4.5
+  },
+  {
+    "long": 121.0148,
+    "lat": 14.5599,
+    "accessibility_score": 8
+  },
+  {
+    "long": 121.0149,
+    "lat": 14.5568,
+    "accessibility_score": 5
+  },
+  {
+    "long": 121.0149,
+    "lat": 14.557,
+    "accessibility_score": 3.6666666666666665
+  },
+  {
+    "long": 121.0149,
+    "lat": 14.5599,
+    "accessibility_score": 5
+  },
+  {
+    "long": 121.0149,
+    "lat": 14.5638,
+    "accessibility_score": 3.5
+  },
+  {
+    "long": 121.015,
+    "lat": 14.5535,
+    "accessibility_score": 6
+  },
+  {
+    "long": 121.015,
+    "lat": 14.5536,
+    "accessibility_score": 5.5
+  },
+  {
+    "long": 121.0151,
+    "lat": 14.5535,
+    "accessibility_score": 9
+  },
+  {
+    "long": 121.0151,
+    "lat": 14.5536,
+    "accessibility_score": 10
+  },
+  {
+    "long": 121.0151,
+    "lat": 14.5558,
+    "accessibility_score": 6
+  },
+  {
+    "long": 121.0152,
+    "lat": 14.5512,
+    "accessibility_score": 8
+  },
+  {
+    "long": 121.0152,
+    "lat": 14.5558,
+    "accessibility_score": 7
+  },
+  {
+    "long": 121.0152,
+    "lat": 14.5767,
+    "accessibility_score": 7
+  },
+  {
+    "long": 121.0152,
+    "lat": 14.5875,
+    "accessibility_score": 2
+  },
+  {
+    "long": 121.0153,
+    "lat": 14.5512,
+    "accessibility_score": 3.5
+  },
+  {
+    "long": 121.0153,
+    "lat": 14.5516,
+    "accessibility_score": 7.333333333333333
+  },
+  {
+    "long": 121.0154,
+    "lat": 14.5584,
+    "accessibility_score": 7
+  },
+  {
+    "long": 121.0154,
+    "lat": 14.5764,
+    "accessibility_score": 7
+  },
+  {
+    "long": 121.0155,
+    "lat": 14.5516,
+    "accessibility_score": 8.5
+  },
+  {
+    "long": 121.0155,
+    "lat": 14.5537,
+    "accessibility_score": 3
+  },
+  {
+    "long": 121.0155,
+    "lat": 14.5716,
+    "accessibility_score": 9
+  },
+  {
+    "long": 121.0156,
+    "lat": 14.5533,
+    "accessibility_score": 3
+  },
+  {
+    "long": 121.0156,
+    "lat": 14.5622,
+    "accessibility_score": 3
+  },
+  {
+    "long": 121.0156,
+    "lat": 14.5964,
+    "accessibility_score": 8
+  },
+  {
+    "long": 121.0157,
+    "lat": 14.5507,
+    "accessibility_score": 7
+  },
+  {
+    "long": 121.0157,
+    "lat": 14.5646,
+    "accessibility_score": 3
+  },
+  {
+    "long": 121.0157,
+    "lat": 14.5683,
+    "accessibility_score": 7.5
+  },
+  {
+    "long": 121.0157,
+    "lat": 14.5762,
+    "accessibility_score": 4.333333333333333
+  },
+  {
+    "long": 121.0157,
+    "lat": 14.5965,
+    "accessibility_score": 4.5
+  },
+  {
+    "long": 121.0158,
+    "lat": 14.5458,
+    "accessibility_score": 2
+  },
+  {
+    "long": 121.0158,
+    "lat": 14.5568,
+    "accessibility_score": 1
+  },
+  {
+    "long": 121.0158,
+    "lat": 14.5572,
+    "accessibility_score": 4.666666666666667
+  },
+  {
+    "long": 121.0159,
+    "lat": 14.5537,
+    "accessibility_score": 7.5
+  },
+  {
+    "long": 121.0159,
+    "lat": 14.5542,
+    "accessibility_score": 4.5
+  },
+  {
+    "long": 121.0159,
+    "lat": 14.5548,
+    "accessibility_score": 6
+  },
+  {
+    "long": 121.0159,
+    "lat": 14.555,
+    "accessibility_score": 9
+  },
+  {
+    "long": 121.0159,
+    "lat": 14.5551,
+    "accessibility_score": 7
+  },
+  {
+    "long": 121.0159,
+    "lat": 14.5584,
+    "accessibility_score": 5.75
+  },
+  {
+    "long": 121.0159,
+    "lat": 14.5622,
+    "accessibility_score": 8
+  },
+  {
+    "long": 121.0159,
+    "lat": 14.5633,
+    "accessibility_score": 8
+  },
+  {
+    "long": 121.0159,
+    "lat": 14.5645,
+    "accessibility_score": 6.5
+  },
+  {
+    "long": 121.016,
+    "lat": 14.5533,
+    "accessibility_score": 6
+  },
+  {
+    "long": 121.016,
+    "lat": 14.5537,
+    "accessibility_score": 7.25
+  },
+  {
+    "long": 121.016,
+    "lat": 14.5541,
+    "accessibility_score": 8.5
+  },
+  {
+    "long": 121.016,
+    "lat": 14.5542,
+    "accessibility_score": 6
+  },
+  {
+    "long": 121.016,
+    "lat": 14.5633,
+    "accessibility_score": 6.666666666666667
+  },
+  {
+    "long": 121.0161,
+    "lat": 14.5395,
+    "accessibility_score": 2.2
+  },
+  {
+    "long": 121.0161,
+    "lat": 14.5533,
+    "accessibility_score": 4
+  },
+  {
+    "long": 121.0161,
+    "lat": 14.5537,
+    "accessibility_score": 7
+  },
+  {
+    "long": 121.0161,
+    "lat": 14.5541,
+    "accessibility_score": 4.333333333333333
+  },
+  {
+    "long": 121.0161,
+    "lat": 14.5638,
+    "accessibility_score": 5
+  },
+  {
+    "long": 121.0161,
+    "lat": 14.5875,
+    "accessibility_score": 5
+  },
+  {
+    "long": 121.0163,
+    "lat": 14.5644,
+    "accessibility_score": 7
+  },
+  {
+    "long": 121.0163,
+    "lat": 14.5716,
+    "accessibility_score": 8
+  },
+  {
+    "long": 121.0163,
+    "lat": 14.5717,
+    "accessibility_score": 7
+  },
+  {
+    "long": 121.0164,
+    "lat": 14.5388,
+    "accessibility_score": 9
+  },
+  {
+    "long": 121.0164,
+    "lat": 14.5389,
+    "accessibility_score": 4
+  },
+  {
+    "long": 121.0164,
+    "lat": 14.5548,
+    "accessibility_score": 5
+  },
+  {
+    "long": 121.0164,
+    "lat": 14.5549,
+    "accessibility_score": 5.666666666666667
+  },
+  {
+    "long": 121.0164,
+    "lat": 14.5551,
+    "accessibility_score": 4
+  },
+  {
+    "long": 121.0164,
+    "lat": 14.5584,
+    "accessibility_score": 5.333333333333333
+  },
+  {
+    "long": 121.0164,
+    "lat": 14.5832,
+    "accessibility_score": 4
+  },
+  {
+    "long": 121.0165,
+    "lat": 14.5389,
+    "accessibility_score": 1
+  },
+  {
+    "long": 121.0165,
+    "lat": 14.5542,
+    "accessibility_score": 3
+  },
+  {
+    "long": 121.0165,
+    "lat": 14.5548,
+    "accessibility_score": 8.6
+  },
+  {
+    "long": 121.0165,
+    "lat": 14.5549,
+    "accessibility_score": 3.5
+  },
+  {
+    "long": 121.0165,
+    "lat": 14.5638,
+    "accessibility_score": 9
+  },
+  {
+    "long": 121.0165,
+    "lat": 14.5875,
+    "accessibility_score": 3
+  },
+  {
+    "long": 121.0166,
+    "lat": 14.5537,
+    "accessibility_score": 5
+  },
+  {
+    "long": 121.0166,
+    "lat": 14.5548,
+    "accessibility_score": 8.4
+  },
+  {
+    "long": 121.0166,
+    "lat": 14.555,
+    "accessibility_score": 7.666666666666667
+  },
+  {
+    "long": 121.0167,
+    "lat": 14.5396,
+    "accessibility_score": 6
+  },
+  {
+    "long": 121.0167,
+    "lat": 14.5397,
+    "accessibility_score": 6
+  },
+  {
+    "long": 121.0167,
+    "lat": 14.5548,
+    "accessibility_score": 9.5
+  },
+  {
+    "long": 121.0167,
+    "lat": 14.555,
+    "accessibility_score": 4.5
+  },
+  {
+    "long": 121.0168,
+    "lat": 14.5371,
+    "accessibility_score": 7.5
+  },
+  {
+    "long": 121.0168,
+    "lat": 14.5397,
+    "accessibility_score": 7.5
+  },
+  {
+    "long": 121.0168,
+    "lat": 14.5832,
+    "accessibility_score": 3
+  },
+  {
+    "long": 121.0169,
+    "lat": 14.5537,
+    "accessibility_score": 7.5
+  },
+  {
+    "long": 121.0169,
+    "lat": 14.5551,
+    "accessibility_score": 7
+  },
+  {
+    "long": 121.01700000000001,
+    "lat": 14.5372,
+    "accessibility_score": 10
+  },
+  {
+    "long": 121.01700000000001,
+    "lat": 14.5536,
+    "accessibility_score": 7.857142857142857
+  },
+  {
+    "long": 121.01700000000001,
+    "lat": 14.5537,
+    "accessibility_score": 6.2
+  },
+  {
+    "long": 121.01700000000001,
+    "lat": 14.554,
+    "accessibility_score": 9
+  },
+  {
+    "long": 121.01700000000001,
+    "lat": 14.5558,
+    "accessibility_score": 7.5
+  },
+  {
+    "long": 121.0171,
+    "lat": 14.5512,
+    "accessibility_score": 7
+  },
+  {
+    "long": 121.0171,
+    "lat": 14.5517,
+    "accessibility_score": 8
+  },
+  {
+    "long": 121.0171,
+    "lat": 14.5536,
+    "accessibility_score": 6.5
+  },
+  {
+    "long": 121.0171,
+    "lat": 14.554,
+    "accessibility_score": 5.333333333333333
+  },
+  {
+    "long": 121.0171,
+    "lat": 14.5542,
+    "accessibility_score": 7
+  },
+  {
+    "long": 121.0171,
+    "lat": 14.5678,
+    "accessibility_score": 6
+  },
+  {
+    "long": 121.0171,
+    "lat": 14.5886,
+    "accessibility_score": 3
+  },
+  {
+    "long": 121.0172,
+    "lat": 14.5395,
+    "accessibility_score": 9
+  },
+  {
+    "long": 121.0172,
+    "lat": 14.5535,
+    "accessibility_score": 7.5
+  },
+  {
+    "long": 121.0172,
+    "lat": 14.5536,
+    "accessibility_score": 6.333333333333333
+  },
+  {
+    "long": 121.0172,
+    "lat": 14.554,
+    "accessibility_score": 6.5
+  },
+  {
+    "long": 121.0172,
+    "lat": 14.5872,
+    "accessibility_score": 3.5
+  },
+  {
+    "long": 121.0173,
+    "lat": 14.5397,
+    "accessibility_score": 4
+  },
+  {
+    "long": 121.0173,
+    "lat": 14.554,
+    "accessibility_score": 8.5
+  },
+  {
+    "long": 121.0173,
+    "lat": 14.5542,
+    "accessibility_score": 7
+  },
+  {
+    "long": 121.0174,
+    "lat": 14.5535,
+    "accessibility_score": 8
+  },
+  {
+    "long": 121.0174,
+    "lat": 14.554,
+    "accessibility_score": 8.5
+  },
+  {
+    "long": 121.0175,
+    "lat": 14.5875,
+    "accessibility_score": 3
+  },
+  {
+    "long": 121.0175,
+    "lat": 14.589,
+    "accessibility_score": 10
+  },
+  {
+    "long": 121.0176,
+    "lat": 14.5386,
+    "accessibility_score": 9
+  },
+  {
+    "long": 121.0176,
+    "lat": 14.5568,
+    "accessibility_score": 5
+  },
+  {
+    "long": 121.0177,
+    "lat": 14.5537,
+    "accessibility_score": 6.5
+  },
+  {
+    "long": 121.0178,
+    "lat": 14.5536,
+    "accessibility_score": 9
+  },
+  {
+    "long": 121.0178,
+    "lat": 14.5542,
+    "accessibility_score": 6.25
+  },
+  {
+    "long": 121.0178,
+    "lat": 14.5829,
+    "accessibility_score": 2
+  },
+  {
+    "long": 121.0179,
+    "lat": 14.5533,
+    "accessibility_score": 10
+  },
+  {
+    "long": 121.0179,
+    "lat": 14.5535,
+    "accessibility_score": 9
+  },
+  {
+    "long": 121.0179,
+    "lat": 14.5536,
+    "accessibility_score": 8.2
+  },
+  {
+    "long": 121.0179,
+    "lat": 14.5542,
+    "accessibility_score": 3
+  },
+  {
+    "long": 121.0179,
+    "lat": 14.589,
+    "accessibility_score": 6
+  },
+  {
+    "long": 121.01799999999999,
+    "lat": 14.5359,
+    "accessibility_score": 9
+  },
+  {
+    "long": 121.01799999999999,
+    "lat": 14.536,
+    "accessibility_score": 8
+  },
+  {
+    "long": 121.01799999999999,
+    "lat": 14.5386,
+    "accessibility_score": 4
+  },
+  {
+    "long": 121.01799999999999,
+    "lat": 14.5516,
+    "accessibility_score": 7.5
+  },
+  {
+    "long": 121.01799999999999,
+    "lat": 14.557,
+    "accessibility_score": 6
+  },
+  {
+    "long": 121.01799999999999,
+    "lat": 14.5572,
+    "accessibility_score": 7.333333333333333
+  },
+  {
+    "long": 121.0181,
+    "lat": 14.536,
+    "accessibility_score": 5
+  },
+  {
+    "long": 121.0181,
+    "lat": 14.5533,
+    "accessibility_score": 8.75
+  },
+  {
+    "long": 121.0181,
+    "lat": 14.5572,
+    "accessibility_score": 4.75
+  },
+  {
+    "long": 121.0182,
+    "lat": 14.5371,
+    "accessibility_score": 6
+  },
+  {
+    "long": 121.0182,
+    "lat": 14.5516,
+    "accessibility_score": 7.75
+  },
+  {
+    "long": 121.0182,
+    "lat": 14.5517,
+    "accessibility_score": 6.5
+  },
+  {
+    "long": 121.0182,
+    "lat": 14.5572,
+    "accessibility_score": 6
+  },
+  {
+    "long": 121.0183,
+    "lat": 14.5517,
+    "accessibility_score": 7
+  },
+  {
+    "long": 121.0183,
+    "lat": 14.5572,
+    "accessibility_score": 8
+  },
+  {
+    "long": 121.0184,
+    "lat": 14.550999999999998,
+    "accessibility_score": 6
+  },
+  {
+    "long": 121.0184,
+    "lat": 14.5541,
+    "accessibility_score": 8.142857142857142
+  },
+  {
+    "long": 121.0184,
+    "lat": 14.557,
+    "accessibility_score": 7.5
+  },
+  {
+    "long": 121.0184,
+    "lat": 14.5572,
+    "accessibility_score": 7.2
+  },
+  {
+    "long": 121.0184,
+    "lat": 14.5622,
+    "accessibility_score": 2
+  },
+  {
+    "long": 121.0185,
+    "lat": 14.5385,
+    "accessibility_score": 8
+  },
+  {
+    "long": 121.0185,
+    "lat": 14.5533,
+    "accessibility_score": 7.6
+  },
+  {
+    "long": 121.0185,
+    "lat": 14.5541,
+    "accessibility_score": 8.5
+  },
+  {
+    "long": 121.0185,
+    "lat": 14.557,
+    "accessibility_score": 9.5
+  },
+  {
+    "long": 121.0185,
+    "lat": 14.5584,
+    "accessibility_score": 7.8
+  },
+  {
+    "long": 121.0186,
+    "lat": 14.554,
+    "accessibility_score": 8.666666666666666
+  },
+  {
+    "long": 121.0186,
+    "lat": 14.5891,
+    "accessibility_score": 3
+  },
+  {
+    "long": 121.0188,
+    "lat": 14.536,
+    "accessibility_score": 6
+  },
+  {
+    "long": 121.0188,
+    "lat": 14.554,
+    "accessibility_score": 5.75
+  },
+  {
+    "long": 121.0188,
+    "lat": 14.5572,
+    "accessibility_score": 7.8
+  },
+  {
+    "long": 121.0189,
+    "lat": 14.5397,
+    "accessibility_score": 6.666666666666667
+  },
+  {
+    "long": 121.0189,
+    "lat": 14.550999999999998,
+    "accessibility_score": 8
+  },
+  {
+    "long": 121.0189,
+    "lat": 14.5511,
+    "accessibility_score": 5.2
+  },
+  {
+    "long": 121.0189,
+    "lat": 14.554,
+    "accessibility_score": 7.5
+  },
+  {
+    "long": 121.0189,
+    "lat": 14.5541,
+    "accessibility_score": 8
+  },
+  {
+    "long": 121.0189,
+    "lat": 14.5568,
+    "accessibility_score": 9
+  },
+  {
+    "long": 121.0189,
+    "lat": 14.5584,
+    "accessibility_score": 6.5
+  },
+  {
+    "long": 121.0189,
+    "lat": 14.5767,
+    "accessibility_score": 7
+  },
+  {
+    "long": 121.0189,
+    "lat": 14.5859,
+    "accessibility_score": 1
+  },
+  {
+    "long": 121.01899999999999,
+    "lat": 14.5508,
+    "accessibility_score": 4
+  },
+  {
+    "long": 121.01899999999999,
+    "lat": 14.5511,
+    "accessibility_score": 7
+  },
+  {
+    "long": 121.01899999999999,
+    "lat": 14.5541,
+    "accessibility_score": 6
+  },
+  {
+    "long": 121.01899999999999,
+    "lat": 14.5584,
+    "accessibility_score": 10
+  },
+  {
+    "long": 121.0191,
+    "lat": 14.5506,
+    "accessibility_score": 6
+  },
+  {
+    "long": 121.0191,
+    "lat": 14.5512,
+    "accessibility_score": 4
+  },
+  {
+    "long": 121.0191,
+    "lat": 14.5858,
+    "accessibility_score": 4
+  },
+  {
+    "long": 121.0191,
+    "lat": 14.5965,
+    "accessibility_score": 7
+  },
+  {
+    "long": 121.0192,
+    "lat": 14.5395,
+    "accessibility_score": 4.5
+  },
+  {
+    "long": 121.0192,
+    "lat": 14.5508,
+    "accessibility_score": 5
+  },
+  {
+    "long": 121.0192,
+    "lat": 14.550999999999998,
+    "accessibility_score": 9.5
+  },
+  {
+    "long": 121.0192,
+    "lat": 14.5511,
+    "accessibility_score": 7
+  },
+  {
+    "long": 121.0192,
+    "lat": 14.5512,
+    "accessibility_score": 9
+  },
+  {
+    "long": 121.0192,
+    "lat": 14.5517,
+    "accessibility_score": 6
+  },
+  {
+    "long": 121.0192,
+    "lat": 14.5763,
+    "accessibility_score": 9
+  },
+  {
+    "long": 121.0192,
+    "lat": 14.5965,
+    "accessibility_score": 2
+  },
+  {
+    "long": 121.0193,
+    "lat": 14.550999999999998,
+    "accessibility_score": 5
+  },
+  {
+    "long": 121.0193,
+    "lat": 14.5511,
+    "accessibility_score": 6
+  },
+  {
+    "long": 121.0193,
+    "lat": 14.554,
+    "accessibility_score": 8.5
+  },
+  {
+    "long": 121.0194,
+    "lat": 14.5322,
+    "accessibility_score": 2
+  },
+  {
+    "long": 121.0194,
+    "lat": 14.554,
+    "accessibility_score": 6.75
+  },
+  {
+    "long": 121.0194,
+    "lat": 14.5541,
+    "accessibility_score": 6.666666666666667
+  },
+  {
+    "long": 121.0195,
+    "lat": 14.5327,
+    "accessibility_score": 7
+  },
+  {
+    "long": 121.0195,
+    "lat": 14.5387,
+    "accessibility_score": 4
+  },
+  {
+    "long": 121.0195,
+    "lat": 14.554,
+    "accessibility_score": 8.666666666666666
+  },
+  {
+    "long": 121.0196,
+    "lat": 14.5323,
+    "accessibility_score": 7.5
+  },
+  {
+    "long": 121.0196,
+    "lat": 14.5327,
+    "accessibility_score": 4.333333333333333
+  },
+  {
+    "long": 121.0196,
+    "lat": 14.5517,
+    "accessibility_score": 9
+  },
+  {
+    "long": 121.0196,
+    "lat": 14.554,
+    "accessibility_score": 6.5
+  },
+  {
+    "long": 121.0196,
+    "lat": 14.5858,
+    "accessibility_score": 2
+  },
+  {
+    "long": 121.0197,
+    "lat": 14.5327,
+    "accessibility_score": 5.666666666666667
+  },
+  {
+    "long": 121.0197,
+    "lat": 14.550999999999998,
+    "accessibility_score": 5
+  },
+  {
+    "long": 121.0197,
+    "lat": 14.5548,
+    "accessibility_score": 7
+  },
+  {
+    "long": 121.0197,
+    "lat": 14.589,
+    "accessibility_score": 4
+  },
+  {
+    "long": 121.0198,
+    "lat": 14.5324,
+    "accessibility_score": 6.5
+  },
+  {
+    "long": 121.0198,
+    "lat": 14.5385,
+    "accessibility_score": 6
+  },
+  {
+    "long": 121.0198,
+    "lat": 14.5548,
+    "accessibility_score": 8.333333333333334
+  },
+  {
+    "long": 121.0199,
+    "lat": 14.5304,
+    "accessibility_score": 8
+  },
+  {
+    "long": 121.0199,
+    "lat": 14.5517,
+    "accessibility_score": 8
+  },
+  {
+    "long": 121.0199,
+    "lat": 14.5568,
+    "accessibility_score": 2
+  },
+  {
+    "long": 121.02,
+    "lat": 14.5303,
+    "accessibility_score": 4.5
+  },
+  {
+    "long": 121.02,
+    "lat": 14.5316,
+    "accessibility_score": 8
+  },
+  {
+    "long": 121.02,
+    "lat": 14.5387,
+    "accessibility_score": 8
+  },
+  {
+    "long": 121.02,
+    "lat": 14.5551,
+    "accessibility_score": 7
+  },
+  {
+    "long": 121.02,
+    "lat": 14.5622,
+    "accessibility_score": 5
+  },
+  {
+    "long": 121.0202,
+    "lat": 14.5537,
+    "accessibility_score": 7
+  },
+  {
+    "long": 121.0203,
+    "lat": 14.5537,
+    "accessibility_score": 3
+  },
+  {
+    "long": 121.0203,
+    "lat": 14.5558,
+    "accessibility_score": 6.5
+  },
+  {
+    "long": 121.0203,
+    "lat": 14.5875,
+    "accessibility_score": 3.6666666666666665
+  },
+  {
+    "long": 121.0204,
+    "lat": 14.550999999999998,
+    "accessibility_score": 4.666666666666667
+  },
+  {
+    "long": 121.0204,
+    "lat": 14.5558,
+    "accessibility_score": 7.333333333333333
+  },
+  {
+    "long": 121.0204,
+    "lat": 14.5678,
+    "accessibility_score": 7.5
+  },
+  {
+    "long": 121.0204,
+    "lat": 14.5763,
+    "accessibility_score": 7
+  },
+  {
+    "long": 121.0205,
+    "lat": 14.5516,
+    "accessibility_score": 9
+  },
+  {
+    "long": 121.0205,
+    "lat": 14.555,
+    "accessibility_score": 2
+  },
+  {
+    "long": 121.0205,
+    "lat": 14.5678,
+    "accessibility_score": 6
+  },
+  {
+    "long": 121.0205,
+    "lat": 14.5875,
+    "accessibility_score": 3
+  },
+  {
+    "long": 121.0206,
+    "lat": 14.5516,
+    "accessibility_score": 7.333333333333333
+  },
+  {
+    "long": 121.0206,
+    "lat": 14.5541,
+    "accessibility_score": 8
+  },
+  {
+    "long": 121.0206,
+    "lat": 14.5558,
+    "accessibility_score": 8
+  },
+  {
+    "long": 121.0206,
+    "lat": 14.5572,
+    "accessibility_score": 6.5
+  },
+  {
+    "long": 121.0207,
+    "lat": 14.5322,
+    "accessibility_score": 8
+  },
+  {
+    "long": 121.0207,
+    "lat": 14.536,
+    "accessibility_score": 8
+  },
+  {
+    "long": 121.0207,
+    "lat": 14.5369,
+    "accessibility_score": 3.5
+  },
+  {
+    "long": 121.0207,
+    "lat": 14.5517,
+    "accessibility_score": 8
+  },
+  {
+    "long": 121.0208,
+    "lat": 14.5508,
+    "accessibility_score": 7.5
+  },
+  {
+    "long": 121.0208,
+    "lat": 14.5516,
+    "accessibility_score": 3.5
+  },
+  {
+    "long": 121.0208,
+    "lat": 14.5905,
+    "accessibility_score": 5
+  },
+  {
+    "long": 121.0209,
+    "lat": 14.5307,
+    "accessibility_score": 2
+  },
+  {
+    "long": 121.0209,
+    "lat": 14.5357,
+    "accessibility_score": 6
+  },
+  {
+    "long": 121.0209,
+    "lat": 14.5507,
+    "accessibility_score": 8
+  },
+  {
+    "long": 121.0209,
+    "lat": 14.5508,
+    "accessibility_score": 7.4
+  },
+  {
+    "long": 121.0209,
+    "lat": 14.5512,
+    "accessibility_score": 6
+  },
+  {
+    "long": 121.0209,
+    "lat": 14.5516,
+    "accessibility_score": 5.5
+  },
+  {
+    "long": 121.0209,
+    "lat": 14.5541,
+    "accessibility_score": 5.833333333333333
+  },
+  {
+    "long": 121.0209,
+    "lat": 14.5568,
+    "accessibility_score": 6.5
+  },
+  {
+    "long": 121.021,
+    "lat": 14.5308,
+    "accessibility_score": 8
+  },
+  {
+    "long": 121.021,
+    "lat": 14.5516,
+    "accessibility_score": 9.5
+  },
+  {
+    "long": 121.021,
+    "lat": 14.5517,
+    "accessibility_score": 7.6
+  },
+  {
+    "long": 121.021,
+    "lat": 14.5567,
+    "accessibility_score": 8.5
+  },
+  {
+    "long": 121.0211,
+    "lat": 14.5309,
+    "accessibility_score": 8
+  },
+  {
+    "long": 121.0211,
+    "lat": 14.5358,
+    "accessibility_score": 7.5
+  },
+  {
+    "long": 121.0211,
+    "lat": 14.5361,
+    "accessibility_score": 6
+  },
+  {
+    "long": 121.0211,
+    "lat": 14.5536,
+    "accessibility_score": 8.333333333333334
+  },
+  {
+    "long": 121.0211,
+    "lat": 14.5567,
+    "accessibility_score": 10
+  },
+  {
+    "long": 121.0211,
+    "lat": 14.557,
+    "accessibility_score": 6.5
+  },
+  {
+    "long": 121.0212,
+    "lat": 14.5358,
+    "accessibility_score": 7
+  },
+  {
+    "long": 121.0212,
+    "lat": 14.5359,
+    "accessibility_score": 9
+  },
+  {
+    "long": 121.0212,
+    "lat": 14.5541,
+    "accessibility_score": 6
+  },
+  {
+    "long": 121.0212,
+    "lat": 14.555,
+    "accessibility_score": 7.5
+  },
+  {
+    "long": 121.0212,
+    "lat": 14.5568,
+    "accessibility_score": 10
+  },
+  {
+    "long": 121.0213,
+    "lat": 14.555,
+    "accessibility_score": 6
+  },
+  {
+    "long": 121.0213,
+    "lat": 14.5568,
+    "accessibility_score": 4.5
+  },
+  {
+    "long": 121.0213,
+    "lat": 14.5569,
+    "accessibility_score": 6
+  },
+  {
+    "long": 121.0213,
+    "lat": 14.557,
+    "accessibility_score": 6
+  },
+  {
+    "long": 121.0213,
+    "lat": 14.5584,
+    "accessibility_score": 3.5
+  },
+  {
+    "long": 121.0214,
+    "lat": 14.5306,
+    "accessibility_score": 2
+  },
+  {
+    "long": 121.0214,
+    "lat": 14.5356,
+    "accessibility_score": 4
+  },
+  {
+    "long": 121.0214,
+    "lat": 14.5358,
+    "accessibility_score": 7
+  },
+  {
+    "long": 121.0214,
+    "lat": 14.5535,
+    "accessibility_score": 8
+  },
+  {
+    "long": 121.0214,
+    "lat": 14.5536,
+    "accessibility_score": 7.5
+  },
+  {
+    "long": 121.0214,
+    "lat": 14.5867,
+    "accessibility_score": 2.5
+  },
+  {
+    "long": 121.0215,
+    "lat": 14.5307,
+    "accessibility_score": 4.333333333333333
+  },
+  {
+    "long": 121.0215,
+    "lat": 14.5535,
+    "accessibility_score": 6.5
+  },
+  {
+    "long": 121.0215,
+    "lat": 14.5536,
+    "accessibility_score": 6
+  },
+  {
+    "long": 121.0215,
+    "lat": 14.5541,
+    "accessibility_score": 5.5
+  },
+  {
+    "long": 121.0215,
+    "lat": 14.5567,
+    "accessibility_score": 10
+  },
+  {
+    "long": 121.0215,
+    "lat": 14.5568,
+    "accessibility_score": 4
+  },
+  {
+    "long": 121.0216,
+    "lat": 14.5355,
+    "accessibility_score": 3
+  },
+  {
+    "long": 121.0217,
+    "lat": 14.5309,
+    "accessibility_score": 2
+  },
+  {
+    "long": 121.0217,
+    "lat": 14.5507,
+    "accessibility_score": 5
+  },
+  {
+    "long": 121.0217,
+    "lat": 14.5525,
+    "accessibility_score": 8
+  },
+  {
+    "long": 121.0217,
+    "lat": 14.5568,
+    "accessibility_score": 8
+  },
+  {
+    "long": 121.0218,
+    "lat": 14.5525,
+    "accessibility_score": 6.5
+  },
+  {
+    "long": 121.0218,
+    "lat": 14.5536,
+    "accessibility_score": 7.333333333333333
+  },
+  {
+    "long": 121.0218,
+    "lat": 14.5541,
+    "accessibility_score": 2
+  },
+  {
+    "long": 121.0218,
+    "lat": 14.5549,
+    "accessibility_score": 6
+  },
+  {
+    "long": 121.0218,
+    "lat": 14.5567,
+    "accessibility_score": 8
+  },
+  {
+    "long": 121.0218,
+    "lat": 14.5569,
+    "accessibility_score": 8.25
+  },
+  {
+    "long": 121.0218,
+    "lat": 14.5717,
+    "accessibility_score": 3.3333333333333335
+  },
+  {
+    "long": 121.0218,
+    "lat": 14.5888,
+    "accessibility_score": 2.5
+  },
+  {
+    "long": 121.0219,
+    "lat": 14.5507,
+    "accessibility_score": 3.5
+  },
+  {
+    "long": 121.0219,
+    "lat": 14.5525,
+    "accessibility_score": 7
+  },
+  {
+    "long": 121.0219,
+    "lat": 14.5548,
+    "accessibility_score": 10
+  },
+  {
+    "long": 121.0219,
+    "lat": 14.5549,
+    "accessibility_score": 8.5
+  },
+  {
+    "long": 121.0219,
+    "lat": 14.5622,
+    "accessibility_score": 6
+  },
+  {
+    "long": 121.022,
+    "lat": 14.5536,
+    "accessibility_score": 9
+  },
+  {
+    "long": 121.022,
+    "lat": 14.5886,
+    "accessibility_score": 5
+  },
+  {
+    "long": 121.0221,
+    "lat": 14.5505,
+    "accessibility_score": 3.8333333333333335
+  },
+  {
+    "long": 121.0221,
+    "lat": 14.5506,
+    "accessibility_score": 5
+  },
+  {
+    "long": 121.0221,
+    "lat": 14.5508,
+    "accessibility_score": 7
+  },
+  {
+    "long": 121.0222,
+    "lat": 14.5503,
+    "accessibility_score": 7.5
+  },
+  {
+    "long": 121.0222,
+    "lat": 14.5504,
+    "accessibility_score": 7.5
+  },
+  {
+    "long": 121.0222,
+    "lat": 14.5505,
+    "accessibility_score": 5
+  },
+  {
+    "long": 121.0222,
+    "lat": 14.5506,
+    "accessibility_score": 4
+  },
+  {
+    "long": 121.0222,
+    "lat": 14.5508,
+    "accessibility_score": 8
+  },
+  {
+    "long": 121.0222,
+    "lat": 14.5633,
+    "accessibility_score": 5.5
+  },
+  {
+    "long": 121.0223,
+    "lat": 14.5504,
+    "accessibility_score": 7
+  },
+  {
+    "long": 121.0223,
+    "lat": 14.5506,
+    "accessibility_score": 7
+  },
+  {
+    "long": 121.0223,
+    "lat": 14.5507,
+    "accessibility_score": 6.333333333333333
+  },
+  {
+    "long": 121.0223,
+    "lat": 14.5525,
+    "accessibility_score": 10
+  },
+  {
+    "long": 121.0223,
+    "lat": 14.5558,
+    "accessibility_score": 7
+  },
+  {
+    "long": 121.0223,
+    "lat": 14.5633,
+    "accessibility_score": 3
+  },
+  {
+    "long": 121.0223,
+    "lat": 14.5672,
+    "accessibility_score": 3
+  },
+  {
+    "long": 121.0223,
+    "lat": 14.5934,
+    "accessibility_score": 3
+  },
+  {
+    "long": 121.0224,
+    "lat": 14.5504,
+    "accessibility_score": 8
+  },
+  {
+    "long": 121.0224,
+    "lat": 14.5505,
+    "accessibility_score": 5.5
+  },
+  {
+    "long": 121.0224,
+    "lat": 14.5507,
+    "accessibility_score": 7
+  },
+  {
+    "long": 121.0224,
+    "lat": 14.550999999999998,
+    "accessibility_score": 8.333333333333334
+  },
+  {
+    "long": 121.0224,
+    "lat": 14.5516,
+    "accessibility_score": 7.5
+  },
+  {
+    "long": 121.0224,
+    "lat": 14.5525,
+    "accessibility_score": 10
+  },
+  {
+    "long": 121.0224,
+    "lat": 14.5584,
+    "accessibility_score": 9
+  },
+  {
+    "long": 121.0224,
+    "lat": 14.5622,
+    "accessibility_score": 8
+  },
+  {
+    "long": 121.0224,
+    "lat": 14.5673,
+    "accessibility_score": 3
+  },
+  {
+    "long": 121.0225,
+    "lat": 14.5507,
+    "accessibility_score": 7
+  },
+  {
+    "long": 121.0225,
+    "lat": 14.5508,
+    "accessibility_score": 4
+  },
+  {
+    "long": 121.0225,
+    "lat": 14.5516,
+    "accessibility_score": 6
+  },
+  {
+    "long": 121.0225,
+    "lat": 14.5548,
+    "accessibility_score": 9
+  },
+  {
+    "long": 121.0225,
+    "lat": 14.557,
+    "accessibility_score": 7
+  },
+  {
+    "long": 121.0225,
+    "lat": 14.5891,
+    "accessibility_score": 4
+  },
+  {
+    "long": 121.0226,
+    "lat": 14.5323,
+    "accessibility_score": 4.5
+  },
+  {
+    "long": 121.0226,
+    "lat": 14.5505,
+    "accessibility_score": 7
+  },
+  {
+    "long": 121.0226,
+    "lat": 14.5506,
+    "accessibility_score": 7
+  },
+  {
+    "long": 121.0226,
+    "lat": 14.5507,
+    "accessibility_score": 7
+  },
+  {
+    "long": 121.0226,
+    "lat": 14.5512,
+    "accessibility_score": 4.5
+  },
+  {
+    "long": 121.0226,
+    "lat": 14.5548,
+    "accessibility_score": 9
+  },
+  {
+    "long": 121.0226,
+    "lat": 14.5622,
+    "accessibility_score": 9
+  },
+  {
+    "long": 121.0227,
+    "lat": 14.5321,
+    "accessibility_score": 4
+  },
+  {
+    "long": 121.0227,
+    "lat": 14.5322,
+    "accessibility_score": 7
+  },
+  {
+    "long": 121.0227,
+    "lat": 14.5504,
+    "accessibility_score": 8
+  },
+  {
+    "long": 121.0227,
+    "lat": 14.5507,
+    "accessibility_score": 8.5
+  },
+  {
+    "long": 121.0227,
+    "lat": 14.554,
+    "accessibility_score": 10
+  },
+  {
+    "long": 121.0227,
+    "lat": 14.555,
+    "accessibility_score": 5
+  },
+  {
+    "long": 121.0228,
+    "lat": 14.554,
+    "accessibility_score": 3
+  },
+  {
+    "long": 121.0228,
+    "lat": 14.5572,
+    "accessibility_score": 4
+  },
+  {
+    "long": 121.0228,
+    "lat": 14.5622,
+    "accessibility_score": 7
+  },
+  {
+    "long": 121.0229,
+    "lat": 14.5503,
+    "accessibility_score": 8
+  },
+  {
+    "long": 121.0229,
+    "lat": 14.5505,
+    "accessibility_score": 8
+  },
+  {
+    "long": 121.0229,
+    "lat": 14.5525,
+    "accessibility_score": 10
+  },
+  {
+    "long": 121.0229,
+    "lat": 14.5536,
+    "accessibility_score": 8
+  },
+  {
+    "long": 121.0229,
+    "lat": 14.554,
+    "accessibility_score": 5.5
+  },
+  {
+    "long": 121.0229,
+    "lat": 14.5541,
+    "accessibility_score": 5.2
+  },
+  {
+    "long": 121.0229,
+    "lat": 14.5548,
+    "accessibility_score": 7.666666666666667
+  },
+  {
+    "long": 121.0229,
+    "lat": 14.5558,
+    "accessibility_score": 8
+  },
+  {
+    "long": 121.0229,
+    "lat": 14.5566,
+    "accessibility_score": 9.666666666666666
+  },
+  {
+    "long": 121.0229,
+    "lat": 14.5584,
+    "accessibility_score": 9
+  },
+  {
+    "long": 121.0229,
+    "lat": 14.5651,
+    "accessibility_score": 5
+  },
+  {
+    "long": 121.023,
+    "lat": 14.5325,
+    "accessibility_score": 4.666666666666667
+  },
+  {
+    "long": 121.023,
+    "lat": 14.5517,
+    "accessibility_score": 8.285714285714286
+  },
+  {
+    "long": 121.023,
+    "lat": 14.554,
+    "accessibility_score": 9
+  },
+  {
+    "long": 121.0231,
+    "lat": 14.5503,
+    "accessibility_score": 7.25
+  },
+  {
+    "long": 121.0231,
+    "lat": 14.5504,
+    "accessibility_score": 10
+  },
+  {
+    "long": 121.0231,
+    "lat": 14.554,
+    "accessibility_score": 7
+  },
+  {
+    "long": 121.0231,
+    "lat": 14.5541,
+    "accessibility_score": 5
+  },
+  {
+    "long": 121.0231,
+    "lat": 14.557,
+    "accessibility_score": 8
+  },
+  {
+    "long": 121.0232,
+    "lat": 14.5316,
+    "accessibility_score": 4
+  },
+  {
+    "long": 121.0232,
+    "lat": 14.5319,
+    "accessibility_score": 3
+  },
+  {
+    "long": 121.0232,
+    "lat": 14.5324,
+    "accessibility_score": 7
+  },
+  {
+    "long": 121.0232,
+    "lat": 14.5503,
+    "accessibility_score": 4
+  },
+  {
+    "long": 121.0232,
+    "lat": 14.5525,
+    "accessibility_score": 9
+  },
+  {
+    "long": 121.0232,
+    "lat": 14.5535,
+    "accessibility_score": 10
+  },
+  {
+    "long": 121.0232,
+    "lat": 14.557,
+    "accessibility_score": 10
+  },
+  {
+    "long": 121.0233,
+    "lat": 14.5318,
+    "accessibility_score": 8
+  },
+  {
+    "long": 121.0233,
+    "lat": 14.532,
+    "accessibility_score": 6.666666666666667
+  },
+  {
+    "long": 121.0233,
+    "lat": 14.5321,
+    "accessibility_score": 7
+  },
+  {
+    "long": 121.0233,
+    "lat": 14.5502,
+    "accessibility_score": 6.2
+  },
+  {
+    "long": 121.0234,
+    "lat": 14.532,
+    "accessibility_score": 3.3333333333333335
+  },
+  {
+    "long": 121.0234,
+    "lat": 14.5321,
+    "accessibility_score": 3.5
+  },
+  {
+    "long": 121.0234,
+    "lat": 14.5516,
+    "accessibility_score": 8.5
+  },
+  {
+    "long": 121.0235,
+    "lat": 14.5318,
+    "accessibility_score": 3
+  },
+  {
+    "long": 121.0235,
+    "lat": 14.5506,
+    "accessibility_score": 8.666666666666666
+  },
+  {
+    "long": 121.0235,
+    "lat": 14.5535,
+    "accessibility_score": 7.428571428571429
+  },
+  {
+    "long": 121.0236,
+    "lat": 14.532,
+    "accessibility_score": 3
+  },
+  {
+    "long": 121.0236,
+    "lat": 14.5458,
+    "accessibility_score": 5
+  },
+  {
+    "long": 121.0236,
+    "lat": 14.5506,
+    "accessibility_score": 5.5
+  },
+  {
+    "long": 121.0236,
+    "lat": 14.5533,
+    "accessibility_score": 5.333333333333333
+  },
+  {
+    "long": 121.0236,
+    "lat": 14.5536,
+    "accessibility_score": 6.5
+  },
+  {
+    "long": 121.0237,
+    "lat": 14.5316,
+    "accessibility_score": 6.25
+  },
+  {
+    "long": 121.0237,
+    "lat": 14.5317,
+    "accessibility_score": 8.5
+  },
+  {
+    "long": 121.0237,
+    "lat": 14.5318,
+    "accessibility_score": 4
+  },
+  {
+    "long": 121.0237,
+    "lat": 14.5506,
+    "accessibility_score": 6
+  },
+  {
+    "long": 121.0237,
+    "lat": 14.5533,
+    "accessibility_score": 4.2
+  },
+  {
+    "long": 121.0237,
+    "lat": 14.5535,
+    "accessibility_score": 6.333333333333333
+  },
+  {
+    "long": 121.0237,
+    "lat": 14.5548,
+    "accessibility_score": 10
+  },
+  {
+    "long": 121.0237,
+    "lat": 14.555,
+    "accessibility_score": 8
+  },
+  {
+    "long": 121.0237,
+    "lat": 14.5569,
+    "accessibility_score": 8.25
+  },
+  {
+    "long": 121.0237,
+    "lat": 14.5673,
+    "accessibility_score": 2
+  },
+  {
+    "long": 121.0238,
+    "lat": 14.5506,
+    "accessibility_score": 7
+  },
+  {
+    "long": 121.0238,
+    "lat": 14.550999999999998,
+    "accessibility_score": 9.333333333333334
+  },
+  {
+    "long": 121.0238,
+    "lat": 14.5512,
+    "accessibility_score": 7
+  },
+  {
+    "long": 121.0238,
+    "lat": 14.5532,
+    "accessibility_score": 8
+  },
+  {
+    "long": 121.0239,
+    "lat": 14.5321,
+    "accessibility_score": 7
+  },
+  {
+    "long": 121.0239,
+    "lat": 14.5497,
+    "accessibility_score": 5.666666666666667
+  },
+  {
+    "long": 121.0239,
+    "lat": 14.5498,
+    "accessibility_score": 10
+  },
+  {
+    "long": 121.0239,
+    "lat": 14.5512,
+    "accessibility_score": 9
+  },
+  {
+    "long": 121.0239,
+    "lat": 14.5548,
+    "accessibility_score": 10
+  },
+  {
+    "long": 121.0239,
+    "lat": 14.5549,
+    "accessibility_score": 6
+  },
+  {
+    "long": 121.0239,
+    "lat": 14.5611,
+    "accessibility_score": 5
+  },
+  {
+    "long": 121.0239,
+    "lat": 14.5657,
+    "accessibility_score": 8
+  },
+  {
+    "long": 121.024,
+    "lat": 14.532,
+    "accessibility_score": 5.333333333333333
+  },
+  {
+    "long": 121.024,
+    "lat": 14.5323,
+    "accessibility_score": 6
+  },
+  {
+    "long": 121.024,
+    "lat": 14.5459,
+    "accessibility_score": 8
+  },
+  {
+    "long": 121.024,
+    "lat": 14.5512,
+    "accessibility_score": 7
+  },
+  {
+    "long": 121.024,
+    "lat": 14.5611,
+    "accessibility_score": 3.6666666666666665
+  },
+  {
+    "long": 121.024,
+    "lat": 14.5664,
+    "accessibility_score": 6
+  },
+  {
+    "long": 121.0241,
+    "lat": 14.5551,
+    "accessibility_score": 10
+  },
+  {
+    "long": 121.0242,
+    "lat": 14.5495,
+    "accessibility_score": 6.5
+  },
+  {
+    "long": 121.0242,
+    "lat": 14.5512,
+    "accessibility_score": 3.25
+  },
+  {
+    "long": 121.0243,
+    "lat": 14.5323,
+    "accessibility_score": 7
+  },
+  {
+    "long": 121.0243,
+    "lat": 14.5508,
+    "accessibility_score": 7.333333333333333
+  },
+  {
+    "long": 121.0243,
+    "lat": 14.5525,
+    "accessibility_score": 6
+  },
+  {
+    "long": 121.0243,
+    "lat": 14.555,
+    "accessibility_score": 8.5
+  },
+  {
+    "long": 121.0243,
+    "lat": 14.5551,
+    "accessibility_score": 10
+  },
+  {
+    "long": 121.0244,
+    "lat": 14.5459,
+    "accessibility_score": 8.5
+  },
+  {
+    "long": 121.0244,
+    "lat": 14.5548,
+    "accessibility_score": 3.5
+  },
+  {
+    "long": 121.0244,
+    "lat": 14.5551,
+    "accessibility_score": 10
+  },
+  {
+    "long": 121.0244,
+    "lat": 14.5633,
+    "accessibility_score": 7
+  },
+  {
+    "long": 121.0245,
+    "lat": 14.5323,
+    "accessibility_score": 3
+  },
+  {
+    "long": 121.0245,
+    "lat": 14.5506,
+    "accessibility_score": 8.25
+  },
+  {
+    "long": 121.0245,
+    "lat": 14.5525,
+    "accessibility_score": 7.75
+  },
+  {
+    "long": 121.0245,
+    "lat": 14.5633,
+    "accessibility_score": 3
+  },
+  {
+    "long": 121.0246,
+    "lat": 14.5323,
+    "accessibility_score": 3
+  },
+  {
+    "long": 121.0246,
+    "lat": 14.5507,
+    "accessibility_score": 9
+  },
+  {
+    "long": 121.0246,
+    "lat": 14.5525,
+    "accessibility_score": 9
+  },
+  {
+    "long": 121.0246,
+    "lat": 14.5546,
+    "accessibility_score": 6
+  },
+  {
+    "long": 121.0246,
+    "lat": 14.5664,
+    "accessibility_score": 9
+  },
+  {
+    "long": 121.0247,
+    "lat": 14.5326,
+    "accessibility_score": 8
+  },
+  {
+    "long": 121.0247,
+    "lat": 14.5504,
+    "accessibility_score": 10
+  },
+  {
+    "long": 121.0247,
+    "lat": 14.5558,
+    "accessibility_score": 8
+  },
+  {
+    "long": 121.0248,
+    "lat": 14.5321,
+    "accessibility_score": 7
+  },
+  {
+    "long": 121.0248,
+    "lat": 14.5325,
+    "accessibility_score": 5
+  },
+  {
+    "long": 121.0249,
+    "lat": 14.532,
+    "accessibility_score": 4
+  },
+  {
+    "long": 121.0249,
+    "lat": 14.5325,
+    "accessibility_score": 4
+  },
+  {
+    "long": 121.0249,
+    "lat": 14.5875,
+    "accessibility_score": 4
+  },
+  {
+    "long": 121.025,
+    "lat": 14.5317,
+    "accessibility_score": 5
+  },
+  {
+    "long": 121.025,
+    "lat": 14.5611,
+    "accessibility_score": 8
+  },
+  {
+    "long": 121.0252,
+    "lat": 14.5502,
+    "accessibility_score": 5
+  },
+  {
+    "long": 121.0253,
+    "lat": 14.554,
+    "accessibility_score": 8
+  },
+  {
+    "long": 121.0253,
+    "lat": 14.5658,
+    "accessibility_score": 8
+  },
+  {
+    "long": 121.0255,
+    "lat": 14.5502,
+    "accessibility_score": 10
+  },
+  {
+    "long": 121.0255,
+    "lat": 14.5657,
+    "accessibility_score": 6
+  },
+  {
+    "long": 121.0256,
+    "lat": 14.5502,
+    "accessibility_score": 9
+  },
+  {
+    "long": 121.0256,
+    "lat": 14.5551,
+    "accessibility_score": 5
+  },
+  {
+    "long": 121.0257,
+    "lat": 14.5498,
+    "accessibility_score": 6
+  },
+  {
+    "long": 121.0257,
+    "lat": 14.5525,
+    "accessibility_score": 6
+  },
+  {
+    "long": 121.0257,
+    "lat": 14.5548,
+    "accessibility_score": 5
+  },
+  {
+    "long": 121.0257,
+    "lat": 14.555,
+    "accessibility_score": 6.5
+  },
+  {
+    "long": 121.0257,
+    "lat": 14.5584,
+    "accessibility_score": 7
+  },
+  {
+    "long": 121.0258,
+    "lat": 14.5497,
+    "accessibility_score": 10
+  },
+  {
+    "long": 121.0258,
+    "lat": 14.5548,
+    "accessibility_score": 3
+  },
+  {
+    "long": 121.0258,
+    "lat": 14.5549,
+    "accessibility_score": 3
+  },
+  {
+    "long": 121.0259,
+    "lat": 14.5498,
+    "accessibility_score": 7
+  },
+  {
+    "long": 121.0259,
+    "lat": 14.5499,
+    "accessibility_score": 10
+  },
+  {
+    "long": 121.0259,
+    "lat": 14.5535,
+    "accessibility_score": 9.5
+  },
+  {
+    "long": 121.0259,
+    "lat": 14.5548,
+    "accessibility_score": 6
+  },
+  {
+    "long": 121.0259,
+    "lat": 14.5549,
+    "accessibility_score": 3
+  },
+  {
+    "long": 121.0259,
+    "lat": 14.555,
+    "accessibility_score": 5.333333333333333
+  },
+  {
+    "long": 121.02600000000001,
+    "lat": 14.5549,
+    "accessibility_score": 5
+  },
+  {
+    "long": 121.0261,
+    "lat": 14.5495,
+    "accessibility_score": 9
+  },
+  {
+    "long": 121.0261,
+    "lat": 14.5546,
+    "accessibility_score": 9.5
+  },
+  {
+    "long": 121.0261,
+    "lat": 14.5548,
+    "accessibility_score": 4
+  },
+  {
+    "long": 121.0262,
+    "lat": 14.5532,
+    "accessibility_score": 7.5
+  },
+  {
+    "long": 121.0262,
+    "lat": 14.5546,
+    "accessibility_score": 8
+  },
+  {
+    "long": 121.0262,
+    "lat": 14.5567,
+    "accessibility_score": 6
+  },
+  {
+    "long": 121.0262,
+    "lat": 14.5584,
+    "accessibility_score": 8
+  },
+  {
+    "long": 121.0263,
+    "lat": 14.5546,
+    "accessibility_score": 7.333333333333333
+  },
+  {
+    "long": 121.0263,
+    "lat": 14.5566,
+    "accessibility_score": 4.75
+  },
+  {
+    "long": 121.0263,
+    "lat": 14.5567,
+    "accessibility_score": 5.333333333333333
+  },
+  {
+    "long": 121.0263,
+    "lat": 14.5581,
+    "accessibility_score": 8
+  },
+  {
+    "long": 121.0264,
+    "lat": 14.5535,
+    "accessibility_score": 6
+  },
+  {
+    "long": 121.0264,
+    "lat": 14.5566,
+    "accessibility_score": 7
+  },
+  {
+    "long": 121.0265,
+    "lat": 14.5511,
+    "accessibility_score": 8
+  },
+  {
+    "long": 121.0265,
+    "lat": 14.5532,
+    "accessibility_score": 9
+  },
+  {
+    "long": 121.0265,
+    "lat": 14.5584,
+    "accessibility_score": 6
+  },
+  {
+    "long": 121.0266,
+    "lat": 14.550999999999998,
+    "accessibility_score": 6.666666666666667
+  },
+  {
+    "long": 121.0266,
+    "lat": 14.5516,
+    "accessibility_score": 8
+  },
+  {
+    "long": 121.0267,
+    "lat": 14.5506,
+    "accessibility_score": 7.75
+  },
+  {
+    "long": 121.0267,
+    "lat": 14.550999999999998,
+    "accessibility_score": 9
+  },
+  {
+    "long": 121.0267,
+    "lat": 14.5517,
+    "accessibility_score": 3
+  },
+  {
+    "long": 121.0268,
+    "lat": 14.5506,
+    "accessibility_score": 3
+  },
+  {
+    "long": 121.0268,
+    "lat": 14.550999999999998,
+    "accessibility_score": 10
+  },
+  {
+    "long": 121.0268,
+    "lat": 14.5517,
+    "accessibility_score": 8
+  },
+  {
+    "long": 121.0268,
+    "lat": 14.554,
+    "accessibility_score": 5
+  },
+  {
+    "long": 121.0269,
+    "lat": 14.5516,
+    "accessibility_score": 9
+  },
+  {
+    "long": 121.0269,
+    "lat": 14.5541,
+    "accessibility_score": 6
+  },
+  {
+    "long": 121.0272,
+    "lat": 14.550999999999998,
+    "accessibility_score": 4
+  },
+  {
+    "long": 121.0273,
+    "lat": 14.5536,
+    "accessibility_score": 4.25
+  },
+  {
+    "long": 121.0274,
+    "lat": 14.5658,
+    "accessibility_score": 10
+  },
+  {
+    "long": 121.0277,
+    "lat": 14.5516,
+    "accessibility_score": 8.333333333333334
+  },
+  {
+    "long": 121.0277,
+    "lat": 14.5664,
+    "accessibility_score": 8
+  },
+  {
+    "long": 121.0278,
+    "lat": 14.5516,
+    "accessibility_score": 10
+  },
+  {
+    "long": 121.0278,
+    "lat": 14.5517,
+    "accessibility_score": 7.5
+  },
+  {
+    "long": 121.0278,
+    "lat": 14.5622,
+    "accessibility_score": 5.5
+  },
+  {
+    "long": 121.0278,
+    "lat": 14.5678,
+    "accessibility_score": 4
+  },
+  {
+    "long": 121.02799999999999,
+    "lat": 14.5622,
+    "accessibility_score": 5.5
+  },
+  {
+    "long": 121.0281,
+    "lat": 14.5516,
+    "accessibility_score": 8
+  },
+  {
+    "long": 121.0281,
+    "lat": 14.5622,
+    "accessibility_score": 8
+  },
+  {
+    "long": 121.0286,
+    "lat": 14.5513,
+    "accessibility_score": 9
+  },
+  {
+    "long": 121.0286,
+    "lat": 14.5658,
+    "accessibility_score": 7
+  },
+  {
+    "long": 121.0287,
+    "lat": 14.5499,
+    "accessibility_score": 9
+  },
+  {
+    "long": 121.0288,
+    "lat": 14.5658,
+    "accessibility_score": 8
+  },
+  {
+    "long": 121.0289,
+    "lat": 14.5503,
+    "accessibility_score": 6
+  },
+  {
+    "long": 121.0289,
+    "lat": 14.5658,
+    "accessibility_score": 3
+  },
+  {
+    "long": 121.029,
+    "lat": 14.5508,
+    "accessibility_score": 9
+  },
+  {
+    "long": 121.029,
+    "lat": 14.5638,
+    "accessibility_score": 2
+  },
+  {
+    "long": 121.0291,
+    "lat": 14.5507,
+    "accessibility_score": 8
+  },
+  {
+    "long": 121.0292,
+    "lat": 14.5498,
+    "accessibility_score": 4
+  },
+  {
+    "long": 121.0292,
+    "lat": 14.5506,
+    "accessibility_score": 4
+  },
+  {
+    "long": 121.0293,
+    "lat": 14.5507,
+    "accessibility_score": 7
+  },
+  {
+    "long": 121.0294,
+    "lat": 14.5644,
+    "accessibility_score": 6
+  },
+  {
+    "long": 121.0294,
+    "lat": 14.5646,
+    "accessibility_score": 8
+  },
+  {
+    "long": 121.0295,
+    "lat": 14.5508,
+    "accessibility_score": 6
+  },
+  {
+    "long": 121.0296,
+    "lat": 14.5499,
+    "accessibility_score": 9
+  },
+  {
+    "long": 121.0296,
+    "lat": 14.5503,
+    "accessibility_score": 8
+  },
+  {
+    "long": 121.0296,
+    "lat": 14.5513,
+    "accessibility_score": 8
+  },
+  {
+    "long": 121.0297,
+    "lat": 14.5503,
+    "accessibility_score": 9
+  },
+  {
+    "long": 121.0298,
+    "lat": 14.5497,
+    "accessibility_score": 5
+  },
+  {
+    "long": 121.0298,
+    "lat": 14.5503,
+    "accessibility_score": 2
+  },
+  {
+    "long": 121.0298,
+    "lat": 14.5673,
+    "accessibility_score": 2
+  },
+  {
+    "long": 121.0299,
+    "lat": 14.5657,
+    "accessibility_score": 6.5
+  },
+  {
+    "long": 121.03,
+    "lat": 14.5497,
+    "accessibility_score": 3.6666666666666665
+  },
+  {
+    "long": 121.0301,
+    "lat": 14.5495,
+    "accessibility_score": 7.5
+  },
+  {
+    "long": 121.0301,
+    "lat": 14.5611,
+    "accessibility_score": 4
+  },
+  {
+    "long": 121.0302,
+    "lat": 14.5495,
+    "accessibility_score": 9.5
+  },
+  {
+    "long": 121.0302,
+    "lat": 14.5498,
+    "accessibility_score": 3
+  },
+  {
+    "long": 121.0302,
+    "lat": 14.5507,
+    "accessibility_score": 2.5
+  },
+  {
+    "long": 121.0302,
+    "lat": 14.5513,
+    "accessibility_score": 3
+  },
+  {
+    "long": 121.0302,
+    "lat": 14.5672,
+    "accessibility_score": 2
+  },
+  {
+    "long": 121.0302,
+    "lat": 14.5678,
+    "accessibility_score": 2.3333333333333335
+  },
+  {
+    "long": 121.0303,
+    "lat": 14.5505,
+    "accessibility_score": 2
+  },
+  {
+    "long": 121.0303,
+    "lat": 14.5506,
+    "accessibility_score": 9
+  },
+  {
+    "long": 121.0303,
+    "lat": 14.5507,
+    "accessibility_score": 5.5
+  },
+  {
+    "long": 121.0303,
+    "lat": 14.5682,
+    "accessibility_score": 5
+  },
+  {
+    "long": 121.0304,
+    "lat": 14.5495,
+    "accessibility_score": 3
+  },
+  {
+    "long": 121.0306,
+    "lat": 14.5515,
+    "accessibility_score": 6.5
+  },
+  {
+    "long": 121.0306,
+    "lat": 14.5516,
+    "accessibility_score": 9.5
+  },
+  {
+    "long": 121.0306,
+    "lat": 14.5635,
+    "accessibility_score": 1
+  },
+  {
+    "long": 121.0306,
+    "lat": 14.5683,
+    "accessibility_score": 4
+  },
+  {
+    "long": 121.0307,
+    "lat": 14.5683,
+    "accessibility_score": 4
+  },
+  {
+    "long": 121.0308,
+    "lat": 14.5683,
+    "accessibility_score": 2
+  },
+  {
+    "long": 121.0309,
+    "lat": 14.5513,
+    "accessibility_score": 8
+  },
+  {
+    "long": 121.0309,
+    "lat": 14.5622,
+    "accessibility_score": 4.333333333333333
+  },
+  {
+    "long": 121.0309,
+    "lat": 14.5635,
+    "accessibility_score": 4
+  },
+  {
+    "long": 121.031,
+    "lat": 14.5644,
+    "accessibility_score": 3
+  },
+  {
+    "long": 121.0312,
+    "lat": 14.5516,
+    "accessibility_score": 5
+  },
+  {
+    "long": 121.03200000000001,
+    "lat": 14.5646,
+    "accessibility_score": 4
+  },
+  {
+    "long": 121.0324,
+    "lat": 14.5622,
+    "accessibility_score": 2
+  },
+  {
+    "long": 121.0325,
+    "lat": 14.5636,
+    "accessibility_score": 6
+  },
+  {
+    "long": 121.0327,
+    "lat": 14.557,
+    "accessibility_score": 7
+  },
+  {
+    "long": 121.0329,
+    "lat": 14.5572,
+    "accessibility_score": 8.5
+  },
+  {
+    "long": 121.03299999999999,
+    "lat": 14.5584,
+    "accessibility_score": 5.5
+  },
+  {
+    "long": 121.0331,
+    "lat": 14.5636,
+    "accessibility_score": 2
+  },
+  {
+    "long": 121.0332,
+    "lat": 14.5573,
+    "accessibility_score": 10
+  },
+  {
+    "long": 121.0333,
+    "lat": 14.557,
+    "accessibility_score": 5.333333333333333
+  },
+  {
+    "long": 121.0333,
+    "lat": 14.5672,
+    "accessibility_score": 5.5
+  },
+  {
+    "long": 121.0336,
+    "lat": 14.5572,
+    "accessibility_score": 7
+  },
+  {
+    "long": 121.0337,
+    "lat": 14.5664,
+    "accessibility_score": 2
+  },
+  {
+    "long": 121.0338,
+    "lat": 14.557,
+    "accessibility_score": 7
+  },
+  {
+    "long": 121.0339,
+    "lat": 14.5541,
+    "accessibility_score": 5.333333333333333
+  },
+  {
+    "long": 121.03399999999999,
+    "lat": 14.5558,
+    "accessibility_score": 1.3333333333333333
+  },
+  {
+    "long": 121.03399999999999,
+    "lat": 14.5572,
+    "accessibility_score": 5.2
+  },
+  {
+    "long": 121.0341,
+    "lat": 14.5645,
+    "accessibility_score": 3
+  },
+  {
+    "long": 121.0341,
+    "lat": 14.5651,
+    "accessibility_score": 8
+  },
+  {
+    "long": 121.0343,
+    "lat": 14.5568,
+    "accessibility_score": 6
+  },
+  {
+    "long": 121.0343,
+    "lat": 14.5572,
+    "accessibility_score": 6
+  },
+  {
+    "long": 121.0344,
+    "lat": 14.5558,
+    "accessibility_score": 10
+  },
+  {
+    "long": 121.0344,
+    "lat": 14.5567,
+    "accessibility_score": 9
+  },
+  {
+    "long": 121.0344,
+    "lat": 14.5664,
+    "accessibility_score": 6
+  },
+  {
+    "long": 121.0346,
+    "lat": 14.555,
+    "accessibility_score": 3
+  },
+  {
+    "long": 121.0348,
+    "lat": 14.5546,
+    "accessibility_score": 2
+  },
+  {
+    "long": 121.0348,
+    "lat": 14.5558,
+    "accessibility_score": 7
+  },
+  {
+    "long": 121.0349,
+    "lat": 14.5546,
+    "accessibility_score": 2
+  },
+  {
+    "long": 121.035,
+    "lat": 14.5546,
+    "accessibility_score": 7
+  },
+  {
+    "long": 121.0351,
+    "lat": 14.5546,
+    "accessibility_score": 4
+  },
+  {
+    "long": 121.0351,
+    "lat": 14.5548,
+    "accessibility_score": 4
+  },
+  {
+    "long": 121.0353,
+    "lat": 14.5558,
+    "accessibility_score": 7
+  },
+  {
+    "long": 121.0358,
+    "lat": 14.5558,
+    "accessibility_score": 2
+  },
+  {
+    "long": 121.0358,
+    "lat": 14.5636,
+    "accessibility_score": 9.5
+  },
+  {
+    "long": 121.0359,
+    "lat": 14.5636,
+    "accessibility_score": 10
+  },
+  {
+    "long": 121.0369,
+    "lat": 14.5568,
+    "accessibility_score": 2.5
+  },
+  {
+    "long": 121.037,
+    "lat": 14.5569,
+    "accessibility_score": 3
+  },
+  {
+    "long": 121.0371,
+    "lat": 14.5566,
+    "accessibility_score": 6
+  },
+  {
+    "long": 121.0371,
+    "lat": 14.5646,
+    "accessibility_score": 9.5
+  },
+  {
+    "long": 121.0371,
+    "lat": 14.5657,
+    "accessibility_score": 7
+  },
+  {
+    "long": 121.0372,
+    "lat": 14.5644,
+    "accessibility_score": 7
+  },
+  {
+    "long": 121.0372,
+    "lat": 14.5646,
+    "accessibility_score": 3
+  },
+  {
+    "long": 121.0372,
+    "lat": 14.5657,
+    "accessibility_score": 10
+  },
+  {
+    "long": 121.038,
+    "lat": 14.5635,
+    "accessibility_score": 4
+  },
+  {
+    "long": 121.0381,
+    "lat": 14.5635,
+    "accessibility_score": 8
+  },
+  {
+    "long": 121.0382,
+    "lat": 14.5651,
+    "accessibility_score": 7
+  },
+  {
+    "long": 121.0386,
+    "lat": 14.5636,
+    "accessibility_score": 4
+  },
+  {
+    "long": 121.0388,
+    "lat": 14.5635,
+    "accessibility_score": 4
+  },
+  {
+    "long": 121.0393,
+    "lat": 14.5573,
+    "accessibility_score": 3.3333333333333335
+  },
+  {
+    "long": 121.0394,
+    "lat": 14.5572,
+    "accessibility_score": 4
+  },
+  {
+    "long": 121.0396,
+    "lat": 14.5572,
+    "accessibility_score": 6.666666666666667
+  },
+  {
+    "long": 121.0398,
+    "lat": 14.5572,
+    "accessibility_score": 5
+  },
+  {
+    "long": 121.04,
+    "lat": 14.5611,
+    "accessibility_score": 4
+  },
+  {
+    "long": 121.0401,
+    "lat": 14.5572,
+    "accessibility_score": 4
+  },
+  {
+    "long": 121.0403,
+    "lat": 14.5572,
+    "accessibility_score": 3
+  },
+  {
+    "long": 121.0403,
+    "lat": 14.5646,
+    "accessibility_score": 4
+  },
+  {
+    "long": 121.0404,
+    "lat": 14.5572,
+    "accessibility_score": 3
+  },
+  {
+    "long": 121.0404,
+    "lat": 14.5646,
+    "accessibility_score": 1
+  },
+  {
+    "long": 121.0405,
+    "lat": 14.5572,
+    "accessibility_score": 7
+  },
+  {
+    "long": 121.0408,
+    "lat": 14.5572,
+    "accessibility_score": 9
+  },
+  {
+    "long": 121.0408,
+    "lat": 14.5584,
+    "accessibility_score": 3
+  },
+  {
+    "long": 121.0409,
+    "lat": 14.5567,
+    "accessibility_score": 2
+  },
+  {
+    "long": 121.0412,
+    "lat": 14.5567,
+    "accessibility_score": 3.8
+  },
+  {
+    "long": 121.0412,
+    "lat": 14.5572,
+    "accessibility_score": 3
+  },
+  {
+    "long": 121.0414,
+    "lat": 14.5651,
+    "accessibility_score": 6
+  },
+  {
+    "long": 121.0415,
+    "lat": 14.5584,
+    "accessibility_score": 1
+  },
+  {
+    "long": 121.0418,
+    "lat": 14.5567,
+    "accessibility_score": 6.75
+  },
+  {
+    "long": 121.0418,
+    "lat": 14.5658,
+    "accessibility_score": 4
+  },
+  {
+    "long": 121.042,
+    "lat": 14.5664,
+    "accessibility_score": 6
+  },
+  {
+    "long": 121.0421,
+    "lat": 14.5567,
+    "accessibility_score": 7.5
+  },
+  {
+    "long": 121.0421,
+    "lat": 14.5569,
+    "accessibility_score": 6
+  },
+  {
+    "long": 121.0421,
+    "lat": 14.557,
+    "accessibility_score": 4
+  },
+  {
+    "long": 121.0422,
+    "lat": 14.5458,
+    "accessibility_score": 6.5
+  },
+  {
+    "long": 121.0422,
+    "lat": 14.5572,
+    "accessibility_score": 3.5
+  },
+  {
+    "long": 121.0423,
+    "lat": 14.5569,
+    "accessibility_score": 10
+  },
+  {
+    "long": 121.0424,
+    "lat": 14.5569,
+    "accessibility_score": 3
+  },
+  {
+    "long": 121.0424,
+    "lat": 14.557,
+    "accessibility_score": 6
+  },
+  {
+    "long": 121.0424,
+    "lat": 14.5572,
+    "accessibility_score": 6.75
+  },
+  {
+    "long": 121.0425,
+    "lat": 14.5569,
+    "accessibility_score": 7.75
+  },
+  {
+    "long": 121.0425,
+    "lat": 14.5622,
+    "accessibility_score": 8
+  },
+  {
+    "long": 121.04299999999999,
+    "lat": 14.5664,
+    "accessibility_score": 10
+  },
+  {
+    "long": 121.0431,
+    "lat": 14.5558,
+    "accessibility_score": 2.5
+  },
+  {
+    "long": 121.0432,
+    "lat": 14.5557,
+    "accessibility_score": 3
+  },
+  {
+    "long": 121.0432,
+    "lat": 14.5558,
+    "accessibility_score": 3.5
+  },
+  {
+    "long": 121.0433,
+    "lat": 14.5678,
+    "accessibility_score": 3
+  },
+  {
+    "long": 121.0434,
+    "lat": 14.5558,
+    "accessibility_score": 5
+  },
+  {
+    "long": 121.0435,
+    "lat": 14.5558,
+    "accessibility_score": 9
+  },
+  {
+    "long": 121.0435,
+    "lat": 14.5611,
+    "accessibility_score": 2
+  },
+  {
+    "long": 121.044,
+    "lat": 14.5569,
+    "accessibility_score": 1.6
+  },
+  {
+    "long": 121.0442,
+    "lat": 14.5636,
+    "accessibility_score": 6.5
+  },
+  {
+    "long": 121.0444,
+    "lat": 14.5682,
+    "accessibility_score": 3.5
+  },
+  {
+    "long": 121.0448,
+    "lat": 14.5566,
+    "accessibility_score": 3
+  },
+  {
+    "long": 121.0448,
+    "lat": 14.5657,
+    "accessibility_score": 5
+  },
+  {
+    "long": 121.0449,
+    "lat": 14.5569,
+    "accessibility_score": 2.5
+  },
+  {
+    "long": 121.0449,
+    "lat": 14.5581,
+    "accessibility_score": 7.5
+  },
+  {
+    "long": 121.045,
+    "lat": 14.5572,
+    "accessibility_score": 1.3333333333333333
+  },
+  {
+    "long": 121.045,
+    "lat": 14.5581,
+    "accessibility_score": 3
+  },
+  {
+    "long": 121.0451,
+    "lat": 14.5558,
+    "accessibility_score": 5
+  },
+  {
+    "long": 121.0452,
+    "lat": 14.5557,
+    "accessibility_score": 3
+  },
+  {
+    "long": 121.0453,
+    "lat": 14.5568,
+    "accessibility_score": 1
+  },
+  {
+    "long": 121.0454,
+    "lat": 14.5635,
+    "accessibility_score": 2
+  },
+  {
+    "long": 121.0454,
+    "lat": 14.5681,
+    "accessibility_score": 7.5
+  },
+  {
+    "long": 121.0457,
+    "lat": 14.5584,
+    "accessibility_score": 5
+  },
+  {
+    "long": 121.0459,
+    "lat": 14.5569,
+    "accessibility_score": 3
+  },
+  {
+    "long": 121.0465,
+    "lat": 14.5672,
+    "accessibility_score": 10
+  },
+  {
+    "long": 121.0466,
+    "lat": 14.5632,
+    "accessibility_score": 4
+  },
+  {
+    "long": 121.0468,
+    "lat": 14.5572,
+    "accessibility_score": 5
+  },
+  {
+    "long": 121.0469,
+    "lat": 14.5622,
+    "accessibility_score": 7
+  },
+  {
+    "long": 121.0469,
+    "lat": 14.5672,
+    "accessibility_score": 6
+  },
+  {
+    "long": 121.0471,
+    "lat": 14.5581,
+    "accessibility_score": 4
+  },
+  {
+    "long": 121.0472,
+    "lat": 14.5584,
+    "accessibility_score": 2
+  },
+  {
+    "long": 121.0475,
+    "lat": 14.5581,
+    "accessibility_score": 3
+  },
+  {
+    "long": 121.0475,
+    "lat": 14.5644,
+    "accessibility_score": 4
+  },
+  {
+    "long": 121.0478,
+    "lat": 14.5568,
+    "accessibility_score": 5
+  },
+  {
+    "long": 121.0479,
+    "lat": 14.5568,
+    "accessibility_score": 2
+  },
+  {
+    "long": 121.0479,
+    "lat": 14.5635,
+    "accessibility_score": 8
+  },
+  {
+    "long": 121.0479,
+    "lat": 14.5646,
+    "accessibility_score": 2
+  },
+  {
+    "long": 121.04799999999999,
+    "lat": 14.5569,
+    "accessibility_score": 2
+  },
+  {
+    "long": 121.04799999999999,
+    "lat": 14.5636,
+    "accessibility_score": 6.5
+  },
+  {
+    "long": 121.0486,
+    "lat": 14.5572,
+    "accessibility_score": 2
+  },
+  {
+    "long": 121.0487,
+    "lat": 14.5636,
+    "accessibility_score": 4
+  },
+  {
+    "long": 121.0488,
+    "lat": 14.5635,
+    "accessibility_score": 2
+  },
+  {
+    "long": 121.0491,
+    "lat": 14.5611,
+    "accessibility_score": 3
+  },
+  {
+    "long": 121.0493,
+    "lat": 14.5637,
+    "accessibility_score": 1
+  },
+  {
+    "long": 121.0494,
+    "lat": 14.5622,
+    "accessibility_score": 3
+  },
+  {
+    "long": 121.0494,
+    "lat": 14.5651,
+    "accessibility_score": 1.5
+  },
+  {
+    "long": 121.0497,
+    "lat": 14.5681,
+    "accessibility_score": 5
+  },
+  {
+    "long": 121.0499,
+    "lat": 14.5681,
+    "accessibility_score": 6
+  },
+  {
+    "long": 121.05,
+    "lat": 14.5569,
+    "accessibility_score": 2
+  },
+  {
+    "long": 121.0502,
+    "lat": 14.5663,
+    "accessibility_score": 4
+  },
+  {
+    "long": 121.0507,
+    "lat": 14.5635,
+    "accessibility_score": 7
+  },
+  {
+    "long": 121.0507,
+    "lat": 14.5637,
+    "accessibility_score": 3
+  },
+  {
+    "long": 121.0514,
+    "lat": 14.5569,
+    "accessibility_score": 5.333333333333333
+  },
+  {
+    "long": 121.0514,
+    "lat": 14.5622,
+    "accessibility_score": 7
+  },
+  {
+    "long": 121.0515,
+    "lat": 14.5569,
+    "accessibility_score": 4
+  },
+  {
+    "long": 121.0519,
+    "lat": 14.5657,
+    "accessibility_score": 2
+  },
+  {
+    "long": 121.0523,
+    "lat": 14.5635,
+    "accessibility_score": 2
+  },
+  {
+    "long": 121.0526,
+    "lat": 14.5664,
+    "accessibility_score": 7
+  },
+  {
+    "long": 121.0538,
+    "lat": 14.5609,
+    "accessibility_score": 7.5
+  },
+  {
+    "long": 121.054,
+    "lat": 14.5637,
+    "accessibility_score": 1
+  },
+  {
+    "long": 121.054,
+    "lat": 14.5657,
+    "accessibility_score": 4
+  },
+  {
+    "long": 121.0548,
+    "lat": 14.565,
+    "accessibility_score": 6
+  },
+  {
+    "long": 121.0555,
+    "lat": 14.5644,
+    "accessibility_score": 8.666666666666666
+  },
+  {
+    "long": 121.0557,
+    "lat": 14.5644,
+    "accessibility_score": 5.5
+  },
+  {
+    "long": 121.0559,
+    "lat": 14.5611,
+    "accessibility_score": 5
+  },
+  {
+    "long": 121.0559,
+    "lat": 14.5632,
+    "accessibility_score": 3
+  },
+  {
+    "long": 121.0559,
+    "lat": 14.5645,
+    "accessibility_score": 9.5
+  },
+  {
+    "long": 121.0562,
+    "lat": 14.5609,
+    "accessibility_score": 10
+  },
+  {
+    "long": 121.0564,
+    "lat": 14.5632,
+    "accessibility_score": 9
+  },
+  {
+    "long": 121.0565,
+    "lat": 14.5611,
+    "accessibility_score": 4
+  },
+  {
+    "long": 121.0567,
+    "lat": 14.5622,
+    "accessibility_score": 6
+  },
+  {
+    "long": 121.057,
+    "lat": 14.5609,
+    "accessibility_score": 9
+  },
+  {
+    "long": 121.0572,
+    "lat": 14.5644,
+    "accessibility_score": 7.5
+  },
+  {
+    "long": 121.0573,
+    "lat": 14.5358,
+    "accessibility_score": 6.5
+  },
+  {
+    "long": 121.0573,
+    "lat": 14.5388,
+    "accessibility_score": 2
+  },
+  {
+    "long": 121.0573,
+    "lat": 14.5495,
+    "accessibility_score": 6
+  },
+  {
+    "long": 121.0575,
+    "lat": 14.537,
+    "accessibility_score": 6.666666666666667
+  },
+  {
+    "long": 121.0576,
+    "lat": 14.5355,
+    "accessibility_score": 4
+  },
+  {
+    "long": 121.0576,
+    "lat": 14.5497,
+    "accessibility_score": 1.5
+  },
+  {
+    "long": 121.0576,
+    "lat": 14.5643,
+    "accessibility_score": 7
+  },
+  {
+    "long": 121.0577,
+    "lat": 14.5395,
+    "accessibility_score": 2
+  },
+  {
+    "long": 121.0577,
+    "lat": 14.5496,
+    "accessibility_score": 1
+  },
+  {
+    "long": 121.0578,
+    "lat": 14.5313,
+    "accessibility_score": 4
+  },
+  {
+    "long": 121.0579,
+    "lat": 14.5327,
+    "accessibility_score": 3
+  },
+  {
+    "long": 121.0579,
+    "lat": 14.5497,
+    "accessibility_score": 3
+  },
+  {
+    "long": 121.0579,
+    "lat": 14.5499,
+    "accessibility_score": 4
+  },
+  {
+    "long": 121.05799999999999,
+    "lat": 14.5315,
+    "accessibility_score": 1
+  },
+  {
+    "long": 121.05799999999999,
+    "lat": 14.5321,
+    "accessibility_score": 9
+  },
+  {
+    "long": 121.05799999999999,
+    "lat": 14.5324,
+    "accessibility_score": 8
+  },
+  {
+    "long": 121.05799999999999,
+    "lat": 14.5327,
+    "accessibility_score": 5
+  },
+  {
+    "long": 121.0581,
+    "lat": 14.5305,
+    "accessibility_score": 5
+  },
+  {
+    "long": 121.0582,
+    "lat": 14.530999999999999,
+    "accessibility_score": 1
+  },
+  {
+    "long": 121.0582,
+    "lat": 14.5457,
+    "accessibility_score": 4
+  },
+  {
+    "long": 121.0582,
+    "lat": 14.5458,
+    "accessibility_score": 3
+  },
+  {
+    "long": 121.0583,
+    "lat": 14.5312,
+    "accessibility_score": 2
+  },
+  {
+    "long": 121.0584,
+    "lat": 14.5457,
+    "accessibility_score": 3
+  },
+  {
+    "long": 121.0584,
+    "lat": 14.5584,
+    "accessibility_score": 4
+  },
+  {
+    "long": 121.0584,
+    "lat": 14.5637,
+    "accessibility_score": 6
+  },
+  {
+    "long": 121.0585,
+    "lat": 14.5357,
+    "accessibility_score": 2
+  },
+  {
+    "long": 121.0586,
+    "lat": 14.5637,
+    "accessibility_score": 2
+  },
+  {
+    "long": 121.0588,
+    "lat": 14.5504,
+    "accessibility_score": 6
+  },
+  {
+    "long": 121.0589,
+    "lat": 14.5305,
+    "accessibility_score": 4
+  },
+  {
+    "long": 121.059,
+    "lat": 14.5307,
+    "accessibility_score": 2
+  },
+  {
+    "long": 121.059,
+    "lat": 14.5357,
+    "accessibility_score": 4
+  },
+  {
+    "long": 121.059,
+    "lat": 14.5504,
+    "accessibility_score": 2
+  },
+  {
+    "long": 121.059,
+    "lat": 14.5513,
+    "accessibility_score": 7.5
+  },
+  {
+    "long": 121.0592,
+    "lat": 14.536,
+    "accessibility_score": 4
+  },
+  {
+    "long": 121.0592,
+    "lat": 14.5458,
+    "accessibility_score": 3
+  },
+  {
+    "long": 121.0592,
+    "lat": 14.5507,
+    "accessibility_score": 2.5
+  },
+  {
+    "long": 121.0593,
+    "lat": 14.5503,
+    "accessibility_score": 2
+  },
+  {
+    "long": 121.0593,
+    "lat": 14.5515,
+    "accessibility_score": 6
+  },
+  {
+    "long": 121.0593,
+    "lat": 14.5632,
+    "accessibility_score": 4
+  },
+  {
+    "long": 121.0594,
+    "lat": 14.5317,
+    "accessibility_score": 5.5
+  },
+  {
+    "long": 121.0595,
+    "lat": 14.5311,
+    "accessibility_score": 3.5
+  },
+  {
+    "long": 121.0595,
+    "lat": 14.5312,
+    "accessibility_score": 2
+  },
+  {
+    "long": 121.0595,
+    "lat": 14.5504,
+    "accessibility_score": 2.5
+  },
+  {
+    "long": 121.0596,
+    "lat": 14.5316,
+    "accessibility_score": 9
+  },
+  {
+    "long": 121.0596,
+    "lat": 14.5322,
+    "accessibility_score": 3
+  },
+  {
+    "long": 121.0598,
+    "lat": 14.550999999999998,
+    "accessibility_score": 6.333333333333333
+  },
+  {
+    "long": 121.0598,
+    "lat": 14.5513,
+    "accessibility_score": 4.5
+  },
+  {
+    "long": 121.0599,
+    "lat": 14.5386,
+    "accessibility_score": 4.5
+  },
+  {
+    "long": 121.0599,
+    "lat": 14.5516,
+    "accessibility_score": 5
+  },
+  {
+    "long": 121.06,
+    "lat": 14.5515,
+    "accessibility_score": 3
+  },
+  {
+    "long": 121.0601,
+    "lat": 14.5508,
+    "accessibility_score": 8
+  },
+  {
+    "long": 121.0601,
+    "lat": 14.554,
+    "accessibility_score": 5
+  },
+  {
+    "long": 121.0603,
+    "lat": 14.5388,
+    "accessibility_score": 3.5
+  },
+  {
+    "long": 121.0603,
+    "lat": 14.5546,
+    "accessibility_score": 2
+  },
+  {
+    "long": 121.0604,
+    "lat": 14.5513,
+    "accessibility_score": 2.3333333333333335
+  },
+  {
+    "long": 121.0606,
+    "lat": 14.5387,
+    "accessibility_score": 3
+  },
+  {
+    "long": 121.0607,
+    "lat": 14.5326,
+    "accessibility_score": 3.5
+  },
+  {
+    "long": 121.0607,
+    "lat": 14.5532,
+    "accessibility_score": 3
+  },
+  {
+    "long": 121.0608,
+    "lat": 14.5388,
+    "accessibility_score": 2
+  },
+  {
+    "long": 121.061,
+    "lat": 14.5525,
+    "accessibility_score": 4
+  },
+  {
+    "long": 121.061,
+    "lat": 14.5567,
+    "accessibility_score": 5
+  },
+  {
+    "long": 121.0612,
+    "lat": 14.5458,
+    "accessibility_score": 2
+  },
+  {
+    "long": 121.0612,
+    "lat": 14.5532,
+    "accessibility_score": 3
+  },
+  {
+    "long": 121.0613,
+    "lat": 14.5458,
+    "accessibility_score": 4
+  },
+  {
+    "long": 121.0613,
+    "lat": 14.5535,
+    "accessibility_score": 4
+  },
+  {
+    "long": 121.0614,
+    "lat": 14.5385,
+    "accessibility_score": 3
+  },
+  {
+    "long": 121.0614,
+    "lat": 14.555,
+    "accessibility_score": 3
+  },
+  {
+    "long": 121.0615,
+    "lat": 14.5502,
+    "accessibility_score": 1.6666666666666667
+  },
+  {
+    "long": 121.0617,
+    "lat": 14.5387,
+    "accessibility_score": 1
+  },
+  {
+    "long": 121.0617,
+    "lat": 14.554,
+    "accessibility_score": 3
+  },
+  {
+    "long": 121.0617,
+    "lat": 14.5549,
+    "accessibility_score": 4
+  },
+  {
+    "long": 121.0619,
+    "lat": 14.5388,
+    "accessibility_score": 1.5
+  },
+  {
+    "long": 121.0619,
+    "lat": 14.5498,
+    "accessibility_score": 2
+  },
+  {
+    "long": 121.0621,
+    "lat": 14.5572,
+    "accessibility_score": 1
+  },
+  {
+    "long": 121.0624,
+    "lat": 14.5355,
+    "accessibility_score": 3
+  },
+  {
+    "long": 121.0624,
+    "lat": 14.5386,
+    "accessibility_score": 1
+  },
+  {
+    "long": 121.0624,
+    "lat": 14.554,
+    "accessibility_score": 4
+  },
+  {
+    "long": 121.0624,
+    "lat": 14.5568,
+    "accessibility_score": 3
+  },
+  {
+    "long": 121.0624,
+    "lat": 14.5572,
+    "accessibility_score": 2
+  },
+  {
+    "long": 121.0625,
+    "lat": 14.5557,
+    "accessibility_score": 7
+  },
+  {
+    "long": 121.0626,
+    "lat": 14.5567,
+    "accessibility_score": 5.5
+  },
+  {
+    "long": 121.0627,
+    "lat": 14.5546,
+    "accessibility_score": 6
+  },
+  {
+    "long": 121.0628,
+    "lat": 14.5386,
+    "accessibility_score": 1
+  },
+  {
+    "long": 121.0628,
+    "lat": 14.5567,
+    "accessibility_score": 4
+  },
+  {
+    "long": 121.0629,
+    "lat": 14.5397,
+    "accessibility_score": 6
+  },
+  {
+    "long": 121.0629,
+    "lat": 14.5567,
+    "accessibility_score": 7.5
+  },
+  {
+    "long": 121.06299999999999,
+    "lat": 14.5548,
+    "accessibility_score": 2
+  },
+  {
+    "long": 121.0632,
+    "lat": 14.5395,
+    "accessibility_score": 3
+  },
+  {
+    "long": 121.0633,
+    "lat": 14.5515,
+    "accessibility_score": 4.5
+  },
+  {
+    "long": 121.0633,
+    "lat": 14.5567,
+    "accessibility_score": 6.5
+  },
+  {
+    "long": 121.0633,
+    "lat": 14.5569,
+    "accessibility_score": 3
+  },
+  {
+    "long": 121.0634,
+    "lat": 14.5357,
+    "accessibility_score": 4
+  },
+  {
+    "long": 121.0634,
+    "lat": 14.5359,
+    "accessibility_score": 6
+  },
+  {
+    "long": 121.0634,
+    "lat": 14.5549,
+    "accessibility_score": 2
+  },
+  {
+    "long": 121.0635,
+    "lat": 14.5457,
+    "accessibility_score": 2
+  },
+  {
+    "long": 121.0637,
+    "lat": 14.5388,
+    "accessibility_score": 2
+  },
+  {
+    "long": 121.0637,
+    "lat": 14.5395,
+    "accessibility_score": 1
+  },
+  {
+    "long": 121.0637,
+    "lat": 14.5498,
+    "accessibility_score": 3
+  },
+  {
+    "long": 121.0638,
+    "lat": 14.5569,
+    "accessibility_score": 2
+  },
+  {
+    "long": 121.0639,
+    "lat": 14.555,
+    "accessibility_score": 5.5
+  },
+  {
+    "long": 121.064,
+    "lat": 14.5513,
+    "accessibility_score": 5
+  },
+  {
+    "long": 121.064,
+    "lat": 14.5516,
+    "accessibility_score": 2.4285714285714284
+  },
+  {
+    "long": 121.0641,
+    "lat": 14.5584,
+    "accessibility_score": 4
+  },
+  {
+    "long": 121.0642,
+    "lat": 14.5535,
+    "accessibility_score": 5
+  },
+  {
+    "long": 121.0643,
+    "lat": 14.5548,
+    "accessibility_score": 4
+  },
+  {
+    "long": 121.0644,
+    "lat": 14.5505,
+    "accessibility_score": 6
+  },
+  {
+    "long": 121.0644,
+    "lat": 14.5548,
+    "accessibility_score": 7
+  },
+  {
+    "long": 121.0644,
+    "lat": 14.5549,
+    "accessibility_score": 4
+  },
+  {
+    "long": 121.0644,
+    "lat": 14.555,
+    "accessibility_score": 8
+  },
+  {
+    "long": 121.0644,
+    "lat": 14.5584,
+    "accessibility_score": 3
+  },
+  {
+    "long": 121.0645,
+    "lat": 14.5457,
+    "accessibility_score": 1
+  },
+  {
+    "long": 121.0645,
+    "lat": 14.5549,
+    "accessibility_score": 4
+  },
+  {
+    "long": 121.0645,
+    "lat": 14.555,
+    "accessibility_score": 7
+  },
+  {
+    "long": 121.0645,
+    "lat": 14.5584,
+    "accessibility_score": 5
+  },
+  {
+    "long": 121.0646,
+    "lat": 14.555,
+    "accessibility_score": 7
+  },
+  {
+    "long": 121.0651,
+    "lat": 14.5549,
+    "accessibility_score": 5.333333333333333
+  },
+  {
+    "long": 121.0654,
+    "lat": 14.5567,
+    "accessibility_score": 3.75
+  },
+  {
+    "long": 121.0655,
+    "lat": 14.5548,
+    "accessibility_score": 6.5
+  },
+  {
+    "long": 121.0656,
+    "lat": 14.5355,
+    "accessibility_score": 2.6666666666666665
+  },
+  {
+    "long": 121.0659,
+    "lat": 14.5504,
+    "accessibility_score": 3.5
+  },
+  {
+    "long": 121.066,
+    "lat": 14.5506,
+    "accessibility_score": 2
+  },
+  {
+    "long": 121.0662,
+    "lat": 14.5581,
+    "accessibility_score": 2.5
+  },
+  {
+    "long": 121.0666,
+    "lat": 14.5583,
+    "accessibility_score": 5.5
+  },
+  {
+    "long": 121.0666,
+    "lat": 14.5584,
+    "accessibility_score": 5.5
+  }
+]
