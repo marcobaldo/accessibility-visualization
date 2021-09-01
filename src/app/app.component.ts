@@ -53,6 +53,15 @@ export class AppComponent implements OnInit {
   scale: any = chroma.scale(['red', 'orange', 'green'])
 
   getColor(score: number): any {
-    return { 'fill': true, 'fillColor': this.scale(score / 10), 'fillOpacity': 0.5, 'color': this.scale(score / 10), opacity: 1.0, weight: 3, radius: 4 };
+    let color = this.scale(score / 10);
+    return {
+      'fill': true,
+      'fillOpacity': 0.5,
+      'fillColor': color,
+      'color': color,
+      'opacity': 1.0,
+      'weight': 3,
+      'radius': 4
+    };
   }
 }
